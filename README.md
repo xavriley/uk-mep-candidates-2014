@@ -36,3 +36,7 @@ The results are a little rough as many candidates don't give their full legal na
   * party slogan (varies by region)
   * region
 
+## Discuss
+
+@xavriley on twitter
+
