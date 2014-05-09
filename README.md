@@ -1,5 +1,12 @@
 # UK European Parliamentary Candidates 2014
 
+## NB similar dataset available here:
+
+[http://yournextmep.com/](http://yournextmep.com/) is a more rounded project with better links to other resources like Wikipedia.
+If you're interested in MEP's address data, or you want to see which companies they are directors of then read on...
+
+##Intro
+
 On Thursday 22nd May 2014, voters in the UK will head to their polling station to cast their votes for the European Parliament.
 For the larger parties, voters might be aware of their candidates from the familiar leaflets through the door but for smaller groups,
 let's say the "Pirate Party" in the North West, it's not viable to flyer an entire region.
