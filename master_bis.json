@@ -1,0 +1,4500 @@
+[
+  {
+    "party": "National Liberal Party – True Liberalism",
+    "region": "london",
+    "name": "Graham Williamson",
+    "twitter": ""
+  },
+  {
+    "party": "National Liberal Party – True Liberalism",
+    "region": "london",
+    "name": "Jagdeesh Singh",
+    "twitter": ""
+  },
+  {
+    "party": "National Liberal Party – True Liberalism",
+    "region": "london",
+    "name": "Sockalingam Yogalingam",
+    "twitter": ""
+  },
+  {
+    "party": "National Liberal Party – True Liberalism",
+    "region": "london",
+    "name": "Doris Jones",
+    "twitter": ""
+  },
+  {
+    "party": "National Liberal Party – True Liberalism",
+    "region": "london",
+    "name": "Upkar Rai",
+    "twitter": ""
+  },
+  {
+    "party": "National Liberal Party – True Liberalism",
+    "region": "london",
+    "name": "Yussef Anwar",
+    "twitter": ""
+  },
+  {
+    "party": "National Liberal Party – True Liberalism",
+    "region": "london",
+    "name": "Araz Yurdseven",
+    "twitter": ""
+  },
+  {
+    "party": "National Liberal Party – True Liberalism",
+    "region": "london",
+    "name": "Bernard Dube",
+    "twitter": ""
+  },
+  {
+    "party": "Alliance Party of Northern Ireland",
+    "region": "northern-ireland",
+    "name": "Anna Lo",
+    "twitter": "Anna4Europe"
+  },
+  {
+    "party": "Socialist Equality Party (UK)",
+    "region": "north-west",
+    "name": "Chris Marsden",
+    "twitter": ""
+  },
+  {
+    "party": "Socialist Equality Party (UK)",
+    "region": "north-west",
+    "name": "Julie Hyland",
+    "twitter": ""
+  },
+  {
+    "party": "Socialist Equality Party (UK)",
+    "region": "north-west",
+    "name": "Robert Skelton",
+    "twitter": ""
+  },
+  {
+    "party": "Socialist Equality Party (UK)",
+    "region": "north-west",
+    "name": "Lucy Warren",
+    "twitter": ""
+  },
+  {
+    "party": "Socialist Equality Party (UK)",
+    "region": "north-west",
+    "name": "Mark Dowson",
+    "twitter": ""
+  },
+  {
+    "party": "Socialist Equality Party (UK)",
+    "region": "north-west",
+    "name": "Ajitha Gunaratne",
+    "twitter": ""
+  },
+  {
+    "party": "Socialist Equality Party (UK)",
+    "region": "north-west",
+    "name": "Danny Dickinson",
+    "twitter": "dannyd219"
+  },
+  {
+    "party": "Socialist Equality Party (UK)",
+    "region": "north-west",
+    "name": "Joe Heffer",
+    "twitter": ""
+  },
+  {
+    "party": "An Independence From Europe",
+    "region": "south-west",
+    "name": "David Smith",
+    "twitter": ""
+  },
+  {
+    "party": "An Independence From Europe",
+    "region": "south-west",
+    "name": "Helen Webster",
+    "twitter": ""
+  },
+  {
+    "party": "An Independence From Europe",
+    "region": "south-west",
+    "name": "Mike Camp",
+    "twitter": ""
+  },
+  {
+    "party": "An Independence From Europe",
+    "region": "south-west",
+    "name": "Andrew Edwards",
+    "twitter": ""
+  },
+  {
+    "party": "An Independence From Europe",
+    "region": "south-west",
+    "name": "Phil Dunn",
+    "twitter": ""
+  },
+  {
+    "party": "An Independence From Europe",
+    "region": "south-west",
+    "name": "John Taverner",
+    "twitter": ""
+  },
+  {
+    "party": "An Independence From Europe",
+    "region": "yorkshire-and-the-humber",
+    "name": "Christopher Booth",
+    "twitter": ""
+  },
+  {
+    "party": "An Independence From Europe",
+    "region": "yorkshire-and-the-humber",
+    "name": "Kerrie Oxenham",
+    "twitter": ""
+  },
+  {
+    "party": "An Independence From Europe",
+    "region": "yorkshire-and-the-humber",
+    "name": "Malcolm Snelling",
+    "twitter": ""
+  },
+  {
+    "party": "An Independence From Europe",
+    "region": "yorkshire-and-the-humber",
+    "name": "John Martin",
+    "twitter": ""
+  },
+  {
+    "party": "An Independence From Europe",
+    "region": "yorkshire-and-the-humber",
+    "name": "Paul Sootheran",
+    "twitter": ""
+  },
+  {
+    "party": "An Independence From Europe",
+    "region": "yorkshire-and-the-humber",
+    "name": "Howard Blake",
+    "twitter": ""
+  },
+  {
+    "party": "An Independence From Europe",
+    "region": "eastern",
+    "name": "Paul Wiffen",
+    "twitter": ""
+  },
+  {
+    "party": "An Independence From Europe",
+    "region": "eastern",
+    "name": "Karl Davies",
+    "twitter": ""
+  },
+  {
+    "party": "An Independence From Europe",
+    "region": "eastern",
+    "name": "Raymond Spalding",
+    "twitter": ""
+  },
+  {
+    "party": "An Independence From Europe",
+    "region": "eastern",
+    "name": "Edmond Rosenthal",
+    "twitter": ""
+  },
+  {
+    "party": "An Independence From Europe",
+    "region": "eastern",
+    "name": "Rupert Smith",
+    "twitter": ""
+  },
+  {
+    "party": "An Independence From Europe",
+    "region": "eastern",
+    "name": "Dennis Wiffen",
+    "twitter": ""
+  },
+  {
+    "party": "An Independence From Europe",
+    "region": "eastern",
+    "name": "Betty Wiffen",
+    "twitter": ""
+  },
+  {
+    "party": "An Independence From Europe",
+    "region": "west-midlands",
+    "name": "Mike Nattrass",
+    "twitter": ""
+  },
+  {
+    "party": "An Independence From Europe",
+    "region": "west-midlands",
+    "name": "Mark nattrass",
+    "twitter": ""
+  },
+  {
+    "party": "An Independence From Europe",
+    "region": "west-midlands",
+    "name": "Joshna Pattni",
+    "twitter": ""
+  },
+  {
+    "party": "An Independence From Europe",
+    "region": "west-midlands",
+    "name": "Carl Humphries",
+    "twitter": ""
+  },
+  {
+    "party": "An Independence From Europe",
+    "region": "west-midlands",
+    "name": "George Forrest",
+    "twitter": ""
+  },
+  {
+    "party": "An Independence From Europe",
+    "region": "west-midlands",
+    "name": "Douglas Ingram",
+    "twitter": ""
+  },
+  {
+    "party": "An Independence From Europe",
+    "region": "west-midlands",
+    "name": "Paul Alders",
+    "twitter": ""
+  },
+  {
+    "party": "An Independence From Europe",
+    "region": "east-midlands",
+    "name": "Chris Pain",
+    "twitter": ""
+  },
+  {
+    "party": "An Independence From Europe",
+    "region": "east-midlands",
+    "name": "Val Pain",
+    "twitter": ""
+  },
+  {
+    "party": "An Independence From Europe",
+    "region": "east-midlands",
+    "name": "Alan Jesson",
+    "twitter": ""
+  },
+  {
+    "party": "An Independence From Europe",
+    "region": "east-midlands",
+    "name": "John Beaver",
+    "twitter": ""
+  },
+  {
+    "party": "An Independence From Europe",
+    "region": "east-midlands",
+    "name": "Carl Mason",
+    "twitter": ""
+  },
+  {
+    "party": "An Independence From Europe",
+    "region": "north-west",
+    "name": "Helen Bashford",
+    "twitter": ""
+  },
+  {
+    "party": "An Independence From Europe",
+    "region": "north-west",
+    "name": "Gill Kearney",
+    "twitter": ""
+  },
+  {
+    "party": "An Independence From Europe",
+    "region": "north-west",
+    "name": "Pauline Penny",
+    "twitter": ""
+  },
+  {
+    "party": "An Independence From Europe",
+    "region": "north-west",
+    "name": "Kay Bashford",
+    "twitter": ""
+  },
+  {
+    "party": "An Independence From Europe",
+    "region": "north-west",
+    "name": "Faye Raw",
+    "twitter": ""
+  },
+  {
+    "party": "An Independence From Europe",
+    "region": "north-west",
+    "name": "Lorna Markovitch",
+    "twitter": ""
+  },
+  {
+    "party": "An Independence From Europe",
+    "region": "north-west",
+    "name": "Jennie Ransome",
+    "twitter": ""
+  },
+  {
+    "party": "An Independence From Europe",
+    "region": "north-west",
+    "name": "Jill Stockdale",
+    "twitter": ""
+  },
+  {
+    "party": "An Independence From Europe",
+    "region": "london",
+    "name": "Patrick Burns",
+    "twitter": ""
+  },
+  {
+    "party": "An Independence From Europe",
+    "region": "london",
+    "name": "Marlene Daniel",
+    "twitter": ""
+  },
+  {
+    "party": "An Independence From Europe",
+    "region": "london",
+    "name": "Gareth Griffiths",
+    "twitter": ""
+  },
+  {
+    "party": "An Independence From Europe",
+    "region": "london",
+    "name": "Munpreet Bhathal",
+    "twitter": ""
+  },
+  {
+    "party": "An Independence From Europe",
+    "region": "london",
+    "name": "Sharon Greenfield",
+    "twitter": ""
+  },
+  {
+    "party": "An Independence From Europe",
+    "region": "london",
+    "name": "Eddie Yeoman",
+    "twitter": ""
+  },
+  {
+    "party": "An Independence From Europe",
+    "region": "london",
+    "name": "Fred Atkins",
+    "twitter": ""
+  },
+  {
+    "party": "An Independence From Europe",
+    "region": "london",
+    "name": "Jean Atkins",
+    "twitter": ""
+  },
+  {
+    "party": "An Independence From Europe",
+    "region": "north-east",
+    "name": "Sherri Forbes",
+    "twitter": ""
+  },
+  {
+    "party": "An Independence From Europe",
+    "region": "north-east",
+    "name": "Nawal Hizan",
+    "twitter": ""
+  },
+  {
+    "party": "An Independence From Europe",
+    "region": "north-east",
+    "name": "Mary Forbes",
+    "twitter": ""
+  },
+  {
+    "party": "An Independence From Europe",
+    "region": "south-east",
+    "name": "Laurence Stassen",
+    "twitter": ""
+  },
+  {
+    "party": "An Independence From Europe",
+    "region": "south-east",
+    "name": "Joyce Nattrass",
+    "twitter": ""
+  },
+  {
+    "party": "An Independence From Europe",
+    "region": "south-east",
+    "name": "Paul Godfrey",
+    "twitter": ""
+  },
+  {
+    "party": "An Independence From Europe",
+    "region": "south-east",
+    "name": "Alan Sheath",
+    "twitter": ""
+  },
+  {
+    "party": "An Independence From Europe",
+    "region": "south-east",
+    "name": "Ken Holtom",
+    "twitter": ""
+  },
+  {
+    "party": "An Independence From Europe",
+    "region": "south-east",
+    "name": "Mark Henry",
+    "twitter": ""
+  },
+  {
+    "party": "An Independence From Europe",
+    "region": "south-east",
+    "name": "Keith Vernon",
+    "twitter": ""
+  },
+  {
+    "party": "An Independence From Europe",
+    "region": "south-east",
+    "name": "Michaelina Argy",
+    "twitter": ""
+  },
+  {
+    "party": "An Independence From Europe",
+    "region": "south-east",
+    "name": "Seana Connolly",
+    "twitter": ""
+  },
+  {
+    "party": "An Independence From Europe",
+    "region": "south-east",
+    "name": "Dorothy Sheath",
+    "twitter": ""
+  },
+  {
+    "party": "Pirate Party UK",
+    "region": "north-west",
+    "name": "Maria Aretoulaki",
+    "twitter": "PiratePUKMaria"
+  },
+  {
+    "party": "Pirate Party UK",
+    "region": "north-west",
+    "name": "George Walkden",
+    "twitter": "gwalkden"
+  },
+  {
+    "party": "Pirate Party UK",
+    "region": "north-west",
+    "name": "Jack Allnutt",
+    "twitter": "allnutt_eu"
+  },
+  {
+    "party": "Socialist Labour",
+    "region": "wales",
+    "name": "Andrew Jordan",
+    "twitter": "AndrewJordanSLP"
+  },
+  {
+    "party": "Socialist Labour",
+    "region": "wales",
+    "name": "Katherine Jones",
+    "twitter": ""
+  },
+  {
+    "party": "Socialist Labour",
+    "region": "wales",
+    "name": "David Lloyd Jones",
+    "twitter": ""
+  },
+  {
+    "party": "Socialist Labour",
+    "region": "wales",
+    "name": "Liz Screen",
+    "twitter": ""
+  },
+  {
+    "party": "Sinn Féin",
+    "region": "northern-ireland",
+    "name": "Martina Anderson",
+    "twitter": "MEPStandingUp4U"
+  },
+  {
+    "party": "National Health Action Party",
+    "region": "london",
+    "name": "Dr Louise Irvine",
+    "twitter": "drmarielouise"
+  },
+  {
+    "party": "National Health Action Party",
+    "region": "london",
+    "name": "Dr Chidi Ejimofo",
+    "twitter": "Nytspider"
+  },
+  {
+    "party": "National Health Action Party",
+    "region": "london",
+    "name": "Marcus Chown",
+    "twitter": ""
+  },
+  {
+    "party": "National Health Action Party",
+    "region": "london",
+    "name": "Kathryn Anderson",
+    "twitter": ""
+  },
+  {
+    "party": "National Health Action Party",
+    "region": "london",
+    "name": "Rufus Hound",
+    "twitter": "RufusHound"
+  },
+  {
+    "party": "National Health Action Party",
+    "region": "london",
+    "name": "Jessica Ormerod",
+    "twitter": ""
+  },
+  {
+    "party": "National Health Action Party",
+    "region": "london",
+    "name": "Andrew Sharp",
+    "twitter": "Andrewsharp1"
+  },
+  {
+    "party": "National Health Action Party",
+    "region": "london",
+    "name": "Alex Ashman",
+    "twitter": ""
+  },
+  {
+    "party": "Green Party of Northern Ireland",
+    "region": "northern-ireland",
+    "name": "Ross Brown",
+    "twitter": "voterossbrown"
+  },
+  {
+    "party": "Europeans Party",
+    "region": "london",
+    "name": "Tommy Tomescu",
+    "twitter": ""
+  },
+  {
+    "party": "Europeans Party",
+    "region": "london",
+    "name": "Andrzej Rygielski",
+    "twitter": ""
+  },
+  {
+    "party": "Europeans Party",
+    "region": "london",
+    "name": "Vanessa Rodriguez",
+    "twitter": ""
+  },
+  {
+    "party": "Europeans Party",
+    "region": "london",
+    "name": "Robin Ashenden",
+    "twitter": ""
+  },
+  {
+    "party": "Europeans Party",
+    "region": "london",
+    "name": "Emil Rusanov",
+    "twitter": ""
+  },
+  {
+    "party": "Europeans Party",
+    "region": "london",
+    "name": "Georgios Papagrigorakis",
+    "twitter": ""
+  },
+  {
+    "party": "NI21",
+    "region": "northern-ireland",
+    "name": "Tina McKenzie",
+    "twitter": "Tina4Europe"
+  },
+  {
+    "party": "Social Democratic and Labour Party",
+    "region": "northern-ireland",
+    "name": "Alex Attwood",
+    "twitter": "AlexForEurope"
+  },
+  {
+    "party": "No2EU",
+    "region": "north-west",
+    "name": "Roger Bannister",
+    "twitter": ""
+  },
+  {
+    "party": "No2EU",
+    "region": "north-west",
+    "name": "George Waterhouse",
+    "twitter": ""
+  },
+  {
+    "party": "No2EU",
+    "region": "north-west",
+    "name": "Jacqueline Grunsell",
+    "twitter": ""
+  },
+  {
+    "party": "No2EU",
+    "region": "north-west",
+    "name": "John Metcalfe",
+    "twitter": ""
+  },
+  {
+    "party": "No2EU",
+    "region": "north-west",
+    "name": "George Tapp",
+    "twitter": ""
+  },
+  {
+    "party": "No2EU",
+    "region": "north-west",
+    "name": "Mark Rowe",
+    "twitter": ""
+  },
+  {
+    "party": "No2EU",
+    "region": "north-west",
+    "name": "James Healy",
+    "twitter": ""
+  },
+  {
+    "party": "No2EU",
+    "region": "north-west",
+    "name": "Kevin Morrison",
+    "twitter": ""
+  },
+  {
+    "party": "No2EU",
+    "region": "yorkshire-and-the-humber",
+    "name": "Trevor Howard",
+    "twitter": ""
+  },
+  {
+    "party": "No2EU",
+    "region": "yorkshire-and-the-humber",
+    "name": "Mary Jackson",
+    "twitter": ""
+  },
+  {
+    "party": "No2EU",
+    "region": "yorkshire-and-the-humber",
+    "name": "Carrie Hedderwick",
+    "twitter": ""
+  },
+  {
+    "party": "No2EU",
+    "region": "yorkshire-and-the-humber",
+    "name": "Adrian O'Malley",
+    "twitter": ""
+  },
+  {
+    "party": "No2EU",
+    "region": "yorkshire-and-the-humber",
+    "name": "Steven Andrew",
+    "twitter": ""
+  },
+  {
+    "party": "No2EU",
+    "region": "yorkshire-and-the-humber",
+    "name": "Iain Dalton",
+    "twitter": ""
+  },
+  {
+    "party": "No2EU",
+    "region": "wales",
+    "name": "Robert Griffiths",
+    "twitter": ""
+  },
+  {
+    "party": "No2EU",
+    "region": "wales",
+    "name": "Claire Job",
+    "twitter": ""
+  },
+  {
+    "party": "No2EU",
+    "region": "wales",
+    "name": "Steven Skelly",
+    "twitter": ""
+  },
+  {
+    "party": "No2EU",
+    "region": "wales",
+    "name": "Laura Picand",
+    "twitter": ""
+  },
+  {
+    "party": "No2EU",
+    "region": "eastern",
+    "name": "Brian Denny",
+    "twitter": ""
+  },
+  {
+    "party": "No2EU",
+    "region": "eastern",
+    "name": "Eleanor Donne",
+    "twitter": ""
+  },
+  {
+    "party": "No2EU",
+    "region": "eastern",
+    "name": "Stephen Glennon",
+    "twitter": ""
+  },
+  {
+    "party": "No2EU",
+    "region": "eastern",
+    "name": "David Goode",
+    "twitter": ""
+  },
+  {
+    "party": "No2EU",
+    "region": "eastern",
+    "name": "Leonardo Impett",
+    "twitter": ""
+  },
+  {
+    "party": "No2EU",
+    "region": "eastern",
+    "name": "Teresa Mackay",
+    "twitter": ""
+  },
+  {
+    "party": "No2EU",
+    "region": "eastern",
+    "name": "Emily Thompson-Golding",
+    "twitter": ""
+  },
+  {
+    "party": "No2EU",
+    "region": "london",
+    "name": "Edward Dempsey",
+    "twitter": ""
+  },
+  {
+    "party": "No2EU",
+    "region": "london",
+    "name": "Alexander Gordon",
+    "twitter": ""
+  },
+  {
+    "party": "No2EU",
+    "region": "london",
+    "name": "April Ashley",
+    "twitter": ""
+  },
+  {
+    "party": "No2EU",
+    "region": "london",
+    "name": "Annie Ngemi",
+    "twitter": ""
+  },
+  {
+    "party": "No2EU",
+    "region": "london",
+    "name": "Mary Davis",
+    "twitter": ""
+  },
+  {
+    "party": "No2EU",
+    "region": "london",
+    "name": "Paula Mitchell",
+    "twitter": ""
+  },
+  {
+    "party": "No2EU",
+    "region": "london",
+    "name": "Natasha Hoarau",
+    "twitter": ""
+  },
+  {
+    "party": "No2EU",
+    "region": "london",
+    "name": "Michael Carty",
+    "twitter": ""
+  },
+  {
+    "party": "No2EU",
+    "region": "west-midlands",
+    "name": "Dave Nellist",
+    "twitter": "davenellist"
+  },
+  {
+    "party": "No2EU",
+    "region": "west-midlands",
+    "name": "Pat Collins",
+    "twitter": ""
+  },
+  {
+    "party": "No2EU",
+    "region": "west-midlands",
+    "name": "Joanne Stevenson",
+    "twitter": ""
+  },
+  {
+    "party": "No2EU",
+    "region": "west-midlands",
+    "name": "Sophia Hussain",
+    "twitter": ""
+  },
+  {
+    "party": "No2EU",
+    "region": "west-midlands",
+    "name": "Paul Reilly",
+    "twitter": ""
+  },
+  {
+    "party": "No2EU",
+    "region": "west-midlands",
+    "name": "Andrew Chaffer",
+    "twitter": ""
+  },
+  {
+    "party": "No2EU",
+    "region": "west-midlands",
+    "name": "Amanda Marfleet",
+    "twitter": ""
+  },
+  {
+    "party": "No2EU",
+    "region": "scotland",
+    "name": "John Foster",
+    "twitter": ""
+  },
+  {
+    "party": "No2EU",
+    "region": "scotland",
+    "name": "Andrew Elliott",
+    "twitter": ""
+  },
+  {
+    "party": "No2EU",
+    "region": "scotland",
+    "name": "Murdo Maclean",
+    "twitter": ""
+  },
+  {
+    "party": "No2EU",
+    "region": "scotland",
+    "name": "Gail Morrow",
+    "twitter": ""
+  },
+  {
+    "party": "No2EU",
+    "region": "scotland",
+    "name": "Brian Smith",
+    "twitter": ""
+  },
+  {
+    "party": "No2EU",
+    "region": "scotland",
+    "name": "Richard Veitch",
+    "twitter": ""
+  },
+  {
+    "party": "Communities United Party",
+    "region": "london",
+    "name": "Kamran Malik",
+    "twitter": ""
+  },
+  {
+    "party": "Communities United Party",
+    "region": "london",
+    "name": "Humera Kamran",
+    "twitter": ""
+  },
+  {
+    "party": "Communities United Party",
+    "region": "london",
+    "name": "Cydatty Bogie",
+    "twitter": ""
+  },
+  {
+    "party": "Communities United Party",
+    "region": "london",
+    "name": "Mary Coleman-Daniels",
+    "twitter": ""
+  },
+  {
+    "party": "Communities United Party",
+    "region": "london",
+    "name": "Idris Ali",
+    "twitter": ""
+  },
+  {
+    "party": "Communities United Party",
+    "region": "london",
+    "name": "Reuben Edokpayi",
+    "twitter": ""
+  },
+  {
+    "party": "Communities United Party",
+    "region": "london",
+    "name": "Sunita Singh",
+    "twitter": ""
+  },
+  {
+    "party": "Communities United Party",
+    "region": "london",
+    "name": "Joanne Flanders",
+    "twitter": ""
+  },
+  {
+    "party": "British National Party",
+    "region": "north-east",
+    "name": "Martin Vaughan",
+    "twitter": ""
+  },
+  {
+    "party": "British National Party",
+    "region": "north-east",
+    "name": "Lady Dorothy Brooke",
+    "twitter": ""
+  },
+  {
+    "party": "British National Party",
+    "region": "north-east",
+    "name": "Peter Foreman",
+    "twitter": ""
+  },
+  {
+    "party": "British National Party",
+    "region": "yorkshire-and-the-humber",
+    "name": "Marlene Guest",
+    "twitter": ""
+  },
+  {
+    "party": "British National Party",
+    "region": "yorkshire-and-the-humber",
+    "name": "Adam Walker",
+    "twitter": ""
+  },
+  {
+    "party": "British National Party",
+    "region": "yorkshire-and-the-humber",
+    "name": "Danny Cooke",
+    "twitter": ""
+  },
+  {
+    "party": "British National Party",
+    "region": "yorkshire-and-the-humber",
+    "name": "Joanne Brown",
+    "twitter": ""
+  },
+  {
+    "party": "British National Party",
+    "region": "yorkshire-and-the-humber",
+    "name": "Steven Harrison",
+    "twitter": ""
+  },
+  {
+    "party": "British National Party",
+    "region": "yorkshire-and-the-humber",
+    "name": "Stuart Henshaw",
+    "twitter": ""
+  },
+  {
+    "party": "British National Party",
+    "region": "west-midlands",
+    "name": "Michael Coleman",
+    "twitter": ""
+  },
+  {
+    "party": "British National Party",
+    "region": "west-midlands",
+    "name": "Jennifer Matthys",
+    "twitter": ""
+  },
+  {
+    "party": "British National Party",
+    "region": "west-midlands",
+    "name": "Kenneth Griffiths",
+    "twitter": ""
+  },
+  {
+    "party": "British National Party",
+    "region": "west-midlands",
+    "name": "Simon Patten",
+    "twitter": ""
+  },
+  {
+    "party": "British National Party",
+    "region": "west-midlands",
+    "name": "David Bradnock",
+    "twitter": ""
+  },
+  {
+    "party": "British National Party",
+    "region": "west-midlands",
+    "name": "Mark Badrick",
+    "twitter": ""
+  },
+  {
+    "party": "British National Party",
+    "region": "west-midlands",
+    "name": "Phil Kimberley",
+    "twitter": ""
+  },
+  {
+    "party": "British National Party",
+    "region": "north-west",
+    "name": "Nick Griffin",
+    "twitter": "nickgriffinmep"
+  },
+  {
+    "party": "British National Party",
+    "region": "north-west",
+    "name": "Dawn Charlton",
+    "twitter": ""
+  },
+  {
+    "party": "British National Party",
+    "region": "north-west",
+    "name": "Clive Jefferson",
+    "twitter": ""
+  },
+  {
+    "party": "British National Party",
+    "region": "north-west",
+    "name": "Eddy O'Sullivan",
+    "twitter": ""
+  },
+  {
+    "party": "British National Party",
+    "region": "north-west",
+    "name": "Simon Darby",
+    "twitter": ""
+  },
+  {
+    "party": "British National Party",
+    "region": "north-west",
+    "name": "Kay Pollitt",
+    "twitter": ""
+  },
+  {
+    "party": "British National Party",
+    "region": "north-west",
+    "name": "Derek Adams",
+    "twitter": ""
+  },
+  {
+    "party": "British National Party",
+    "region": "north-west",
+    "name": "David O'Loughlin",
+    "twitter": ""
+  },
+  {
+    "party": "British National Party",
+    "region": "eastern",
+    "name": "Richard Perry",
+    "twitter": ""
+  },
+  {
+    "party": "British National Party",
+    "region": "eastern",
+    "name": "Christopher Livingstone",
+    "twitter": ""
+  },
+  {
+    "party": "British National Party",
+    "region": "eastern",
+    "name": "Mark Burmby",
+    "twitter": ""
+  },
+  {
+    "party": "British National Party",
+    "region": "eastern",
+    "name": "Paul Hooks",
+    "twitter": ""
+  },
+  {
+    "party": "British National Party",
+    "region": "eastern",
+    "name": "Stephen Smith",
+    "twitter": ""
+  },
+  {
+    "party": "British National Party",
+    "region": "eastern",
+    "name": "Philip Howell",
+    "twitter": ""
+  },
+  {
+    "party": "British National Party",
+    "region": "eastern",
+    "name": "Michael Braun",
+    "twitter": ""
+  },
+  {
+    "party": "British National Party",
+    "region": "scotland",
+    "name": "Kenneth McDonald",
+    "twitter": ""
+  },
+  {
+    "party": "British National Party",
+    "region": "scotland",
+    "name": "David Orr",
+    "twitter": ""
+  },
+  {
+    "party": "British National Party",
+    "region": "scotland",
+    "name": "Victoria McKenzie",
+    "twitter": ""
+  },
+  {
+    "party": "British National Party",
+    "region": "scotland",
+    "name": "Angus Matthys",
+    "twitter": ""
+  },
+  {
+    "party": "British National Party",
+    "region": "scotland",
+    "name": "Paul Stafford",
+    "twitter": ""
+  },
+  {
+    "party": "British National Party",
+    "region": "scotland",
+    "name": "Stacey Fleming",
+    "twitter": ""
+  },
+  {
+    "party": "British National Party",
+    "region": "east-midlands",
+    "name": "Cathy Duffy",
+    "twitter": ""
+  },
+  {
+    "party": "British National Party",
+    "region": "east-midlands",
+    "name": "Robert West",
+    "twitter": ""
+  },
+  {
+    "party": "British National Party",
+    "region": "east-midlands",
+    "name": "Bob Brindley",
+    "twitter": ""
+  },
+  {
+    "party": "British National Party",
+    "region": "east-midlands",
+    "name": "Geoffrey Dickens",
+    "twitter": ""
+  },
+  {
+    "party": "British National Party",
+    "region": "east-midlands",
+    "name": "Paul Hilliard",
+    "twitter": ""
+  },
+  {
+    "party": "British National Party",
+    "region": "south-east",
+    "name": "John Robinson",
+    "twitter": ""
+  },
+  {
+    "party": "British National Party",
+    "region": "south-east",
+    "name": "Gavin Miller",
+    "twitter": ""
+  },
+  {
+    "party": "British National Party",
+    "region": "south-east",
+    "name": "Eric Elliott",
+    "twitter": ""
+  },
+  {
+    "party": "British National Party",
+    "region": "south-east",
+    "name": "John Moore",
+    "twitter": ""
+  },
+  {
+    "party": "British National Party",
+    "region": "south-east",
+    "name": "Alwyn Deacon",
+    "twitter": ""
+  },
+  {
+    "party": "British National Party",
+    "region": "south-east",
+    "name": "Anthony Bamber",
+    "twitter": ""
+  },
+  {
+    "party": "British National Party",
+    "region": "south-east",
+    "name": "Brenda Waterhouse",
+    "twitter": ""
+  },
+  {
+    "party": "British National Party",
+    "region": "south-east",
+    "name": "Mark Jones",
+    "twitter": ""
+  },
+  {
+    "party": "British National Party",
+    "region": "south-east",
+    "name": "Jack Renshaw",
+    "twitter": ""
+  },
+  {
+    "party": "British National Party",
+    "region": "south-east",
+    "name": "Yvonne Deacon",
+    "twitter": ""
+  },
+  {
+    "party": "British National Party",
+    "region": "london",
+    "name": "Stephen Squire",
+    "twitter": ""
+  },
+  {
+    "party": "British National Party",
+    "region": "london",
+    "name": "Donna Treanor",
+    "twitter": ""
+  },
+  {
+    "party": "British National Party",
+    "region": "london",
+    "name": "Paul Sturdy",
+    "twitter": ""
+  },
+  {
+    "party": "British National Party",
+    "region": "london",
+    "name": "John Clarke",
+    "twitter": ""
+  },
+  {
+    "party": "British National Party",
+    "region": "london",
+    "name": "David Furness",
+    "twitter": ""
+  },
+  {
+    "party": "British National Party",
+    "region": "london",
+    "name": "Cliff Le May",
+    "twitter": ""
+  },
+  {
+    "party": "British National Party",
+    "region": "london",
+    "name": "Ray Underwood",
+    "twitter": ""
+  },
+  {
+    "party": "British National Party",
+    "region": "london",
+    "name": "Kevin Lazell",
+    "twitter": ""
+  },
+  {
+    "party": "British National Party",
+    "region": "wales",
+    "name": "Mike Whitby",
+    "twitter": ""
+  },
+  {
+    "party": "British National Party",
+    "region": "wales",
+    "name": "Laurence Dalriada",
+    "twitter": ""
+  },
+  {
+    "party": "British National Party",
+    "region": "wales",
+    "name": "Jean Griffin",
+    "twitter": ""
+  },
+  {
+    "party": "British National Party",
+    "region": "wales",
+    "name": "Gary Tumulty",
+    "twitter": ""
+  },
+  {
+    "party": "British National Party",
+    "region": "south-west",
+    "name": "Adrian Romilly",
+    "twitter": ""
+  },
+  {
+    "party": "British National Party",
+    "region": "south-west",
+    "name": "Cliff Jones",
+    "twitter": ""
+  },
+  {
+    "party": "British National Party",
+    "region": "south-west",
+    "name": "Arnold Brindle",
+    "twitter": ""
+  },
+  {
+    "party": "British National Party",
+    "region": "south-west",
+    "name": "Wayne Peter Tomlinson",
+    "twitter": ""
+  },
+  {
+    "party": "British National Party",
+    "region": "south-west",
+    "name": "Andrew Webster",
+    "twitter": ""
+  },
+  {
+    "party": "British National Party",
+    "region": "south-west",
+    "name": "Giuseppe De Santis",
+    "twitter": ""
+  },
+  {
+    "party": "Yorkshire First",
+    "region": "yorkshire-and-the-humber",
+    "name": "Stewart Arnold",
+    "twitter": ""
+  },
+  {
+    "party": "Yorkshire First",
+    "region": "yorkshire-and-the-humber",
+    "name": "Richard Carter",
+    "twitter": ""
+  },
+  {
+    "party": "Yorkshire First",
+    "region": "yorkshire-and-the-humber",
+    "name": "Richard Honnoraty",
+    "twitter": ""
+  },
+  {
+    "party": "Liberty GB",
+    "region": "south-east",
+    "name": "Paul Weston",
+    "twitter": "paulwestonlibgb"
+  },
+  {
+    "party": "Liberty GB",
+    "region": "south-east",
+    "name": "Enza Ferreri",
+    "twitter": "EnzaFerreri"
+  },
+  {
+    "party": "Liberty GB",
+    "region": "south-east",
+    "name": "Jack Buckby",
+    "twitter": "jackbuckby"
+  },
+  {
+    "party": "Conservative Party",
+    "region": "north-east",
+    "name": "Martin Callanan",
+    "twitter": ""
+  },
+  {
+    "party": "Conservative Party",
+    "region": "north-east",
+    "name": "Ben Houchen",
+    "twitter": "BenHouchen"
+  },
+  {
+    "party": "Conservative Party",
+    "region": "north-east",
+    "name": "Andrew Lee",
+    "twitter": ""
+  },
+  {
+    "party": "Conservative Party",
+    "region": "yorkshire-and-the-humber",
+    "name": "Timothy Kirkhope",
+    "twitter": "TimKirkhopeMEP"
+  },
+  {
+    "party": "Conservative Party",
+    "region": "yorkshire-and-the-humber",
+    "name": "Alex Story",
+    "twitter": ""
+  },
+  {
+    "party": "Conservative Party",
+    "region": "yorkshire-and-the-humber",
+    "name": "John Procter",
+    "twitter": ""
+  },
+  {
+    "party": "Conservative Party",
+    "region": "yorkshire-and-the-humber",
+    "name": "Carolyn Abbott",
+    "twitter": "CarolynAbbottRe"
+  },
+  {
+    "party": "Conservative Party",
+    "region": "yorkshire-and-the-humber",
+    "name": "Michael Naughton",
+    "twitter": ""
+  },
+  {
+    "party": "Conservative Party",
+    "region": "yorkshire-and-the-humber",
+    "name": "Ryan Stephenson",
+    "twitter": ""
+  },
+  {
+    "party": "Conservative Party",
+    "region": "eastern",
+    "name": "Vicky Ford",
+    "twitter": "vickyford"
+  },
+  {
+    "party": "Conservative Party",
+    "region": "eastern",
+    "name": "Geoffrey van Orden",
+    "twitter": ""
+  },
+  {
+    "party": "Conservative Party",
+    "region": "eastern",
+    "name": "David Campbell Bannerman",
+    "twitter": "DCBMEP"
+  },
+  {
+    "party": "Conservative Party",
+    "region": "eastern",
+    "name": "John Flack",
+    "twitter": "GiveEuropeFlack"
+  },
+  {
+    "party": "Conservative Party",
+    "region": "eastern",
+    "name": "Tom Hunt",
+    "twitter": "cllrtomhunt1"
+  },
+  {
+    "party": "Conservative Party",
+    "region": "eastern",
+    "name": "Margaret Simons",
+    "twitter": "Margaret_Simons"
+  },
+  {
+    "party": "Conservative Party",
+    "region": "eastern",
+    "name": "Jonathan Collett",
+    "twitter": "JonCollett"
+  },
+  {
+    "party": "Conservative Party",
+    "region": "north-west",
+    "name": "Jacqueline Foster",
+    "twitter": "jfostermep"
+  },
+  {
+    "party": "Conservative Party",
+    "region": "north-west",
+    "name": "Sajjad Karim",
+    "twitter": "SHKMEP"
+  },
+  {
+    "party": "Conservative Party",
+    "region": "north-west",
+    "name": "Kevin Beaty",
+    "twitter": "kevcow"
+  },
+  {
+    "party": "Conservative Party",
+    "region": "north-west",
+    "name": "Deborah Dunleavy",
+    "twitter": ""
+  },
+  {
+    "party": "Conservative Party",
+    "region": "north-west",
+    "name": "Joe Barker-Willis",
+    "twitter": "JMVBarker"
+  },
+  {
+    "party": "Conservative Party",
+    "region": "north-west",
+    "name": "Daniel Hamilton",
+    "twitter": "danielrhamilton"
+  },
+  {
+    "party": "Conservative Party",
+    "region": "north-west",
+    "name": "Chris Whiteside",
+    "twitter": "ChrisWhiteside3"
+  },
+  {
+    "party": "Conservative Party",
+    "region": "north-west",
+    "name": "James Walsh",
+    "twitter": ""
+  },
+  {
+    "party": "Conservative Party",
+    "region": "west-midlands",
+    "name": "Philip Bradbourn",
+    "twitter": ""
+  },
+  {
+    "party": "Conservative Party",
+    "region": "west-midlands",
+    "name": "Anthea McIntyre",
+    "twitter": "anthea_mcintyre"
+  },
+  {
+    "party": "Conservative Party",
+    "region": "west-midlands",
+    "name": "Daniel Dalton",
+    "twitter": ""
+  },
+  {
+    "party": "Conservative Party",
+    "region": "west-midlands",
+    "name": "Michael Burnett",
+    "twitter": ""
+  },
+  {
+    "party": "Conservative Party",
+    "region": "west-midlands",
+    "name": "Sibby Buckle",
+    "twitter": "sibbuc"
+  },
+  {
+    "party": "Conservative Party",
+    "region": "west-midlands",
+    "name": "Dan Sames",
+    "twitter": "DanSames"
+  },
+  {
+    "party": "Conservative Party",
+    "region": "west-midlands",
+    "name": "Avern Alex",
+    "twitter": ""
+  },
+  {
+    "party": "Conservative Party",
+    "region": "scotland",
+    "name": "Ian Duncan",
+    "twitter": "IanDuncan2014"
+  },
+  {
+    "party": "Conservative Party",
+    "region": "scotland",
+    "name": "Belinda Don",
+    "twitter": ""
+  },
+  {
+    "party": "Conservative Party",
+    "region": "scotland",
+    "name": "Nosheena Mobarik",
+    "twitter": ""
+  },
+  {
+    "party": "Conservative Party",
+    "region": "scotland",
+    "name": "Jamie Gardiner",
+    "twitter": ""
+  },
+  {
+    "party": "Conservative Party",
+    "region": "scotland",
+    "name": "Iain McGill",
+    "twitter": "IainMcGill"
+  },
+  {
+    "party": "Conservative Party",
+    "region": "scotland",
+    "name": "Stuart McIntyre",
+    "twitter": "stuartgmcintyre"
+  },
+  {
+    "party": "Conservative Party",
+    "region": "east-midlands",
+    "name": "Emma McClarkin",
+    "twitter": "EmmaMcClarkin"
+  },
+  {
+    "party": "Conservative Party",
+    "region": "east-midlands",
+    "name": "Andrew Lewer",
+    "twitter": ""
+  },
+  {
+    "party": "Conservative Party",
+    "region": "east-midlands",
+    "name": "Rupert Matthews",
+    "twitter": "RupertMatthews"
+  },
+  {
+    "party": "Conservative Party",
+    "region": "east-midlands",
+    "name": "Stephen Castens",
+    "twitter": ""
+  },
+  {
+    "party": "Conservative Party",
+    "region": "east-midlands",
+    "name": "Brendan Clarke-Smith",
+    "twitter": ""
+  },
+  {
+    "party": "Conservative Party",
+    "region": "london",
+    "name": "Syed Kamall",
+    "twitter": "SyedKamall"
+  },
+  {
+    "party": "Conservative Party",
+    "region": "london",
+    "name": "Charles Tannock",
+    "twitter": "CharlesTannock"
+  },
+  {
+    "party": "Conservative Party",
+    "region": "london",
+    "name": "Marina Yannakoudakis",
+    "twitter": "MarinaMEP"
+  },
+  {
+    "party": "Conservative Party",
+    "region": "london",
+    "name": "Caroline Attfield",
+    "twitter": ""
+  },
+  {
+    "party": "Conservative Party",
+    "region": "london",
+    "name": "Lynne Hack",
+    "twitter": ""
+  },
+  {
+    "party": "Conservative Party",
+    "region": "london",
+    "name": "Sheila Lawlor",
+    "twitter": ""
+  },
+  {
+    "party": "Conservative Party",
+    "region": "london",
+    "name": "Glyn Chambers",
+    "twitter": ""
+  },
+  {
+    "party": "Conservative Party",
+    "region": "london",
+    "name": "Annesley Abercorn",
+    "twitter": ""
+  },
+  {
+    "party": "Conservative Party",
+    "region": "south-east",
+    "name": "Daniel Hannan",
+    "twitter": "DanHannanMEP"
+  },
+  {
+    "party": "Conservative Party",
+    "region": "south-east",
+    "name": "Nirj Deva",
+    "twitter": "NirjDeva"
+  },
+  {
+    "party": "Conservative Party",
+    "region": "south-east",
+    "name": "Richard Ashworth",
+    "twitter": "RichardAshMEP"
+  },
+  {
+    "party": "Conservative Party",
+    "region": "south-east",
+    "name": "Marta Andreasen",
+    "twitter": "mandreasen"
+  },
+  {
+    "party": "Conservative Party",
+    "region": "south-east",
+    "name": "Richard Robinson",
+    "twitter": "RRsoutheast"
+  },
+  {
+    "party": "Conservative Party",
+    "region": "south-east",
+    "name": "Graham Knight",
+    "twitter": "GrahamKNIGHT2"
+  },
+  {
+    "party": "Conservative Party",
+    "region": "south-east",
+    "name": "Julie Marson",
+    "twitter": "JulieMarson"
+  },
+  {
+    "party": "Conservative Party",
+    "region": "south-east",
+    "name": "George Jeffrey",
+    "twitter": ""
+  },
+  {
+    "party": "Conservative Party",
+    "region": "south-east",
+    "name": "Rory Love",
+    "twitter": ""
+  },
+  {
+    "party": "Conservative Party",
+    "region": "south-east",
+    "name": "Adrian Pepper",
+    "twitter": "thepepperview"
+  },
+  {
+    "party": "Conservative Party",
+    "region": "northern-ireland",
+    "name": "Mark Brotherston",
+    "twitter": "MarkBrotherston"
+  },
+  {
+    "party": "Conservative Party",
+    "region": "wales",
+    "name": "Kay Swinburne",
+    "twitter": ""
+  },
+  {
+    "party": "Conservative Party",
+    "region": "wales",
+    "name": "Aled Davies",
+    "twitter": "Aled_Glanogeu"
+  },
+  {
+    "party": "Conservative Party",
+    "region": "wales",
+    "name": "Dan Boucher",
+    "twitter": "Dan4SwanseaEast"
+  },
+  {
+    "party": "Conservative Party",
+    "region": "wales",
+    "name": "Richard Hopkin",
+    "twitter": "RichardHopkin"
+  },
+  {
+    "party": "Conservative Party",
+    "region": "south-west",
+    "name": "Ashley Fox",
+    "twitter": "Ashleyfoxmep"
+  },
+  {
+    "party": "Conservative Party",
+    "region": "south-west",
+    "name": "Julie Girling",
+    "twitter": "juliegirling"
+  },
+  {
+    "party": "Conservative Party",
+    "region": "south-west",
+    "name": "James Cracknell",
+    "twitter": "JamesCracknell"
+  },
+  {
+    "party": "Conservative Party",
+    "region": "south-west",
+    "name": "Georgina Butler",
+    "twitter": "gbdiplo"
+  },
+  {
+    "party": "Conservative Party",
+    "region": "south-west",
+    "name": "Sophie Swire",
+    "twitter": "SwireSophie"
+  },
+  {
+    "party": "Conservative Party",
+    "region": "south-west",
+    "name": "Melissa Maynard",
+    "twitter": "mmaynard4mep"
+  },
+  {
+    "party": "Britain First",
+    "region": "wales",
+    "name": "Paul Golding",
+    "twitter": ""
+  },
+  {
+    "party": "Britain First",
+    "region": "wales",
+    "name": "Anthony Golding",
+    "twitter": ""
+  },
+  {
+    "party": "Britain First",
+    "region": "wales",
+    "name": "Christine Smith",
+    "twitter": ""
+  },
+  {
+    "party": "Britain First",
+    "region": "wales",
+    "name": "Anne Elstone",
+    "twitter": ""
+  },
+  {
+    "party": "Britain First",
+    "region": "scotland",
+    "name": "James Dowson",
+    "twitter": ""
+  },
+  {
+    "party": "Britain First",
+    "region": "scotland",
+    "name": "John Randall",
+    "twitter": ""
+  },
+  {
+    "party": "Britain First",
+    "region": "scotland",
+    "name": "Jayda Fransen",
+    "twitter": ""
+  },
+  {
+    "party": "Britain First",
+    "region": "scotland",
+    "name": "Geoffrey Clynch",
+    "twitter": ""
+  },
+  {
+    "party": "Britain First",
+    "region": "scotland",
+    "name": "Margaret Clynch",
+    "twitter": ""
+  },
+  {
+    "party": "Britain First",
+    "region": "scotland",
+    "name": "Jane Shepherd",
+    "twitter": ""
+  },
+  {
+    "party": "Socialist Party of Great Britain",
+    "region": "south-east",
+    "name": "Dave Chesham",
+    "twitter": "whichfinder"
+  },
+  {
+    "party": "Socialist Party of Great Britain",
+    "region": "south-east",
+    "name": "Rob Cox",
+    "twitter": ""
+  },
+  {
+    "party": "Socialist Party of Great Britain",
+    "region": "south-east",
+    "name": "Les Courtney",
+    "twitter": ""
+  },
+  {
+    "party": "Socialist Party of Great Britain",
+    "region": "south-east",
+    "name": "Sean Deegan",
+    "twitter": "thewealthatom"
+  },
+  {
+    "party": "Socialist Party of Great Britain",
+    "region": "south-east",
+    "name": "Max Hess",
+    "twitter": ""
+  },
+  {
+    "party": "Socialist Party of Great Britain",
+    "region": "south-east",
+    "name": "Claudia Hogg-Blake",
+    "twitter": ""
+  },
+  {
+    "party": "Socialist Party of Great Britain",
+    "region": "south-east",
+    "name": "Danny Lambert",
+    "twitter": ""
+  },
+  {
+    "party": "Socialist Party of Great Britain",
+    "region": "south-east",
+    "name": "Andy Matthews",
+    "twitter": ""
+  },
+  {
+    "party": "Socialist Party of Great Britain",
+    "region": "south-east",
+    "name": "Howard Pilott",
+    "twitter": ""
+  },
+  {
+    "party": "Socialist Party of Great Britain",
+    "region": "south-east",
+    "name": "Mike Young",
+    "twitter": ""
+  },
+  {
+    "party": "Socialist Party of Great Britain",
+    "region": "wales",
+    "name": "Brian Johnson",
+    "twitter": ""
+  },
+  {
+    "party": "Socialist Party of Great Britain",
+    "region": "wales",
+    "name": "Richard Cheney",
+    "twitter": ""
+  },
+  {
+    "party": "Socialist Party of Great Britain",
+    "region": "wales",
+    "name": "Ed Blewitt",
+    "twitter": ""
+  },
+  {
+    "party": "Socialist Party of Great Britain",
+    "region": "wales",
+    "name": "Howard Moss",
+    "twitter": ""
+  },
+  {
+    "party": "Labour Party",
+    "region": "north-east",
+    "name": "Judith Kirton-Darling",
+    "twitter": "Jude_KD"
+  },
+  {
+    "party": "Labour Party",
+    "region": "north-east",
+    "name": "Paul Brannen",
+    "twitter": "PaulBrannenNE"
+  },
+  {
+    "party": "Labour Party",
+    "region": "north-east",
+    "name": "Jayne Shotton",
+    "twitter": "jshttn"
+  },
+  {
+    "party": "Labour Party",
+    "region": "yorkshire-and-the-humber",
+    "name": "Linda McAvan",
+    "twitter": "LindaMcAvanMEP"
+  },
+  {
+    "party": "Labour Party",
+    "region": "yorkshire-and-the-humber",
+    "name": "Richard Corbett",
+    "twitter": "RichardC2014"
+  },
+  {
+    "party": "Labour Party",
+    "region": "yorkshire-and-the-humber",
+    "name": "Eleanor Tunnicliffe",
+    "twitter": "ejtunnicliffe"
+  },
+  {
+    "party": "Labour Party",
+    "region": "yorkshire-and-the-humber",
+    "name": "Asghar Khan",
+    "twitter": "asgharlab"
+  },
+  {
+    "party": "Labour Party",
+    "region": "yorkshire-and-the-humber",
+    "name": "Helen Mirfin-Boukouris",
+    "twitter": "MirfinBoukouris"
+  },
+  {
+    "party": "Labour Party",
+    "region": "yorkshire-and-the-humber",
+    "name": "Darren Hughes",
+    "twitter": "darrenjlhughes"
+  },
+  {
+    "party": "Labour Party",
+    "region": "eastern",
+    "name": "Richard Howitt",
+    "twitter": "richardhowitt"
+  },
+  {
+    "party": "Labour Party",
+    "region": "eastern",
+    "name": "Alex Mayer",
+    "twitter": "alexlmayer"
+  },
+  {
+    "party": "Labour Party",
+    "region": "eastern",
+    "name": "Sandy Martin",
+    "twitter": "sandyofipswich"
+  },
+  {
+    "party": "Labour Party",
+    "region": "eastern",
+    "name": "Bhavna Joshi",
+    "twitter": "BhavnaJoshi"
+  },
+  {
+    "party": "Labour Party",
+    "region": "eastern",
+    "name": "Paul Bishop",
+    "twitter": ""
+  },
+  {
+    "party": "Labour Party",
+    "region": "eastern",
+    "name": "Jane Basham",
+    "twitter": "Jane_Basham"
+  },
+  {
+    "party": "Labour Party",
+    "region": "eastern",
+    "name": "Chris Ostrowski",
+    "twitter": ""
+  },
+  {
+    "party": "Labour Party",
+    "region": "north-west",
+    "name": "Theresa Griffin",
+    "twitter": "TheresaG_EU"
+  },
+  {
+    "party": "Labour Party",
+    "region": "north-west",
+    "name": "Afzal Khan",
+    "twitter": "cllrakhan"
+  },
+  {
+    "party": "Labour Party",
+    "region": "north-west",
+    "name": "Julie Ward",
+    "twitter": "julie4nw"
+  },
+  {
+    "party": "Labour Party",
+    "region": "north-west",
+    "name": "Wajid Khan",
+    "twitter": "wajid4europe"
+  },
+  {
+    "party": "Labour Party",
+    "region": "north-west",
+    "name": "Angeliki Stogia",
+    "twitter": "Angeliki4eu"
+  },
+  {
+    "party": "Labour Party",
+    "region": "north-west",
+    "name": "Steve Carter",
+    "twitter": "SteveCarter001"
+  },
+  {
+    "party": "Labour Party",
+    "region": "north-west",
+    "name": "Pascale Lamb",
+    "twitter": "PascaleLamb"
+  },
+  {
+    "party": "Labour Party",
+    "region": "north-west",
+    "name": "Nick Parnell",
+    "twitter": ""
+  },
+  {
+    "party": "Labour Party",
+    "region": "west-midlands",
+    "name": "Neena Gill",
+    "twitter": "neenaformep"
+  },
+  {
+    "party": "Labour Party",
+    "region": "west-midlands",
+    "name": "Siôn Simon",
+    "twitter": "sionsimon"
+  },
+  {
+    "party": "Labour Party",
+    "region": "west-midlands",
+    "name": "Lynda Waltho",
+    "twitter": "LW4WM"
+  },
+  {
+    "party": "Labour Party",
+    "region": "west-midlands",
+    "name": "Ansar Ali Khan",
+    "twitter": "ansar_ali_khan"
+  },
+  {
+    "party": "Labour Party",
+    "region": "west-midlands",
+    "name": "Olwen Hamer",
+    "twitter": "OlwenHamer"
+  },
+  {
+    "party": "Labour Party",
+    "region": "west-midlands",
+    "name": "Tony Ethapemi",
+    "twitter": ""
+  },
+  {
+    "party": "Labour Party",
+    "region": "west-midlands",
+    "name": "Philippa Roberts",
+    "twitter": ""
+  },
+  {
+    "party": "Labour Party",
+    "region": "scotland",
+    "name": "David Martin",
+    "twitter": "davidmartinmep"
+  },
+  {
+    "party": "Labour Party",
+    "region": "scotland",
+    "name": "Catherine Stihler",
+    "twitter": "C_Stihler_MEP"
+  },
+  {
+    "party": "Labour Party",
+    "region": "scotland",
+    "name": "Derek Munn",
+    "twitter": "Derek4Europe"
+  },
+  {
+    "party": "Labour Party",
+    "region": "scotland",
+    "name": "Katrina Murray",
+    "twitter": "katrinamurray71"
+  },
+  {
+    "party": "Labour Party",
+    "region": "scotland",
+    "name": "Asim Khan",
+    "twitter": "asim_rel"
+  },
+  {
+    "party": "Labour Party",
+    "region": "scotland",
+    "name": "Kirsty O'Brien",
+    "twitter": "Coisty_OB"
+  },
+  {
+    "party": "Labour Party",
+    "region": "east-midlands",
+    "name": "Glenis Willmott",
+    "twitter": "GlenisWillmott"
+  },
+  {
+    "party": "Labour Party",
+    "region": "east-midlands",
+    "name": "Rory Palmer",
+    "twitter": "Rory_Palmer"
+  },
+  {
+    "party": "Labour Party",
+    "region": "east-midlands",
+    "name": "Linda Woodings",
+    "twitter": "LindaWoodings"
+  },
+  {
+    "party": "Labour Party",
+    "region": "east-midlands",
+    "name": "Khalid Hadadi",
+    "twitter": ""
+  },
+  {
+    "party": "Labour Party",
+    "region": "east-midlands",
+    "name": "Nicki Brooks",
+    "twitter": "NickiBrooksx"
+  },
+  {
+    "party": "Labour Party",
+    "region": "south-east",
+    "name": "Anneliese Dodds",
+    "twitter": "AnnelieseDodds"
+  },
+  {
+    "party": "Labour Party",
+    "region": "south-east",
+    "name": "John Howarth",
+    "twitter": "johnhowarth1958"
+  },
+  {
+    "party": "Labour Party",
+    "region": "south-east",
+    "name": "Emily Westley",
+    "twitter": "emilywestley"
+  },
+  {
+    "party": "Labour Party",
+    "region": "south-east",
+    "name": "James Swindlehurst",
+    "twitter": "jamesswindy"
+  },
+  {
+    "party": "Labour Party",
+    "region": "south-east",
+    "name": "Farah Nazeer",
+    "twitter": "FarahNazeer"
+  },
+  {
+    "party": "Labour Party",
+    "region": "south-east",
+    "name": "James Watkins",
+    "twitter": "watkins_js"
+  },
+  {
+    "party": "Labour Party",
+    "region": "south-east",
+    "name": "Maggie Hughes",
+    "twitter": "EUMaggie_Hughes"
+  },
+  {
+    "party": "Labour Party",
+    "region": "south-east",
+    "name": "Christopher Clark",
+    "twitter": ""
+  },
+  {
+    "party": "Labour Party",
+    "region": "south-east",
+    "name": "Karen Landles",
+    "twitter": "karenlandles"
+  },
+  {
+    "party": "Labour Party",
+    "region": "south-east",
+    "name": "Tracey Hill",
+    "twitter": ""
+  },
+  {
+    "party": "Labour Party",
+    "region": "london",
+    "name": "Claude Moraes",
+    "twitter": "ClaudeMoraesMEP"
+  },
+  {
+    "party": "Labour Party",
+    "region": "london",
+    "name": "Mary Honeyball",
+    "twitter": "maryhoneyball"
+  },
+  {
+    "party": "Labour Party",
+    "region": "london",
+    "name": "Lucy Anderson",
+    "twitter": "Lucy4MEP"
+  },
+  {
+    "party": "Labour Party",
+    "region": "london",
+    "name": "Seb Dance",
+    "twitter": "SebDance"
+  },
+  {
+    "party": "Labour Party",
+    "region": "london",
+    "name": "Ivana Bartoletti",
+    "twitter": "IvanaBartoletti"
+  },
+  {
+    "party": "Labour Party",
+    "region": "london",
+    "name": "Kamaljeet Jandu",
+    "twitter": "KamaljeetJandu"
+  },
+  {
+    "party": "Labour Party",
+    "region": "london",
+    "name": "Sanchia Alasia",
+    "twitter": "sanchia4europe"
+  },
+  {
+    "party": "Labour Party",
+    "region": "london",
+    "name": "Andrea Biondi",
+    "twitter": "biondi4europe"
+  },
+  {
+    "party": "Labour Party",
+    "region": "wales",
+    "name": "Derek Vaughan",
+    "twitter": "derekvaughan"
+  },
+  {
+    "party": "Labour Party",
+    "region": "wales",
+    "name": "Jayne Bryant",
+    "twitter": ""
+  },
+  {
+    "party": "Labour Party",
+    "region": "wales",
+    "name": "Alex Thomas",
+    "twitter": ""
+  },
+  {
+    "party": "Labour Party",
+    "region": "wales",
+    "name": "Christina Rees",
+    "twitter": "ReesEurope"
+  },
+  {
+    "party": "Labour Party",
+    "region": "south-west",
+    "name": "Clare Moody",
+    "twitter": "ClareMMoody"
+  },
+  {
+    "party": "Labour Party",
+    "region": "south-west",
+    "name": "Glyn Ford",
+    "twitter": ""
+  },
+  {
+    "party": "Labour Party",
+    "region": "south-west",
+    "name": "Ann Reeder",
+    "twitter": "SomersetAnn"
+  },
+  {
+    "party": "Labour Party",
+    "region": "south-west",
+    "name": "Hadleigh Roberts",
+    "twitter": "HadleighRoberts"
+  },
+  {
+    "party": "Labour Party",
+    "region": "south-west",
+    "name": "Jude Robinson",
+    "twitter": "Juderobinson"
+  },
+  {
+    "party": "Labour Party",
+    "region": "south-west",
+    "name": "Junab Ali",
+    "twitter": "junabali"
+  },
+  {
+    "party": "4 Freedoms Party",
+    "region": "london",
+    "name": "Dirk Hazell",
+    "twitter": ""
+  },
+  {
+    "party": "4 Freedoms Party",
+    "region": "london",
+    "name": "NoelleAnne O’Sullivan",
+    "twitter": ""
+  },
+  {
+    "party": "4 Freedoms Party",
+    "region": "london",
+    "name": "Geoff Gibas",
+    "twitter": ""
+  },
+  {
+    "party": "4 Freedoms Party",
+    "region": "london",
+    "name": "Aline Doussin",
+    "twitter": ""
+  },
+  {
+    "party": "4 Freedoms Party",
+    "region": "london",
+    "name": "Andrew Bell",
+    "twitter": ""
+  },
+  {
+    "party": "4 Freedoms Party",
+    "region": "london",
+    "name": "Deborah Phillips",
+    "twitter": ""
+  },
+  {
+    "party": "4 Freedoms Party",
+    "region": "london",
+    "name": "Royston Flude",
+    "twitter": ""
+  },
+  {
+    "party": "4 Freedoms Party",
+    "region": "london",
+    "name": "Brendan Donnelly",
+    "twitter": ""
+  },
+  {
+    "party": "Harmony Party",
+    "region": "south-east",
+    "name": "Terry leach",
+    "twitter": ""
+  },
+  {
+    "party": "Harmony Party",
+    "region": "south-east",
+    "name": "Raymond Crick",
+    "twitter": ""
+  },
+  {
+    "party": "Harmony Party",
+    "region": "london",
+    "name": "David Vincent",
+    "twitter": ""
+  },
+  {
+    "party": "Harmony Party",
+    "region": "east-midlands",
+    "name": "Steve Ward",
+    "twitter": ""
+  },
+  {
+    "party": "Harmony Party",
+    "region": "west-midlands",
+    "name": "Reg Mahrra",
+    "twitter": ""
+  },
+  {
+    "party": "Animal Welfare Party",
+    "region": "london",
+    "name": "Vanessa Hudson",
+    "twitter": ""
+  },
+  {
+    "party": "Animal Welfare Party",
+    "region": "london",
+    "name": "Alexander Bourke",
+    "twitter": ""
+  },
+  {
+    "party": "Animal Welfare Party",
+    "region": "london",
+    "name": "Kirsteen Williamson-Guinn",
+    "twitter": ""
+  },
+  {
+    "party": "Animal Welfare Party",
+    "region": "london",
+    "name": "Andrew Knight",
+    "twitter": ""
+  },
+  {
+    "party": "Animal Welfare Party",
+    "region": "london",
+    "name": "Dimple Patel",
+    "twitter": ""
+  },
+  {
+    "party": "Animal Welfare Party",
+    "region": "london",
+    "name": "Meg Mathews",
+    "twitter": ""
+  },
+  {
+    "party": "Animal Welfare Party",
+    "region": "london",
+    "name": "Guy Dessoy",
+    "twitter": ""
+  },
+  {
+    "party": "Animal Welfare Party",
+    "region": "london",
+    "name": "Ranjan Joshi",
+    "twitter": ""
+  },
+  {
+    "party": "Democratic Unionist Party",
+    "region": "northern-ireland",
+    "name": "Diane Dodds",
+    "twitter": "DianeDoddsMEP"
+  },
+  {
+    "party": "Scottish Green Party",
+    "region": "scotland",
+    "name": "Maggie Chapman",
+    "twitter": "MaggieEdinburgh"
+  },
+  {
+    "party": "Scottish Green Party",
+    "region": "scotland",
+    "name": "Chas Booth",
+    "twitter": "CllrChasBooth"
+  },
+  {
+    "party": "Scottish Green Party",
+    "region": "scotland",
+    "name": "Grace Murray",
+    "twitter": ""
+  },
+  {
+    "party": "Scottish Green Party",
+    "region": "scotland",
+    "name": "Alastair Whitelaw",
+    "twitter": ""
+  },
+  {
+    "party": "Scottish Green Party",
+    "region": "scotland",
+    "name": "Anne Thomas",
+    "twitter": ""
+  },
+  {
+    "party": "Scottish Green Party",
+    "region": "scotland",
+    "name": "Steen Parish",
+    "twitter": "steenparish"
+  },
+  {
+    "party": "The Peace Party - Non-violence",
+    "region": "Justice",
+    "name": "Environment",
+    "twitter": "south-east",
+    "": ""
+  },
+  {
+    "party": "The Peace Party - Non-violence",
+    "region": "Justice",
+    "name": "Environment",
+    "twitter": "south-east",
+    "": ""
+  },
+  {
+    "party": "The Peace Party - Non-violence",
+    "region": "Justice",
+    "name": "Environment",
+    "twitter": "south-east",
+    "": ""
+  },
+  {
+    "party": "The Peace Party - Non-violence",
+    "region": "Justice",
+    "name": "Environment",
+    "twitter": "south-east",
+    "": ""
+  },
+  {
+    "party": "The Peace Party - Non-violence",
+    "region": "Justice",
+    "name": "Environment",
+    "twitter": "south-east",
+    "": ""
+  },
+  {
+    "party": "The Peace Party - Non-violence",
+    "region": "Justice",
+    "name": "Environment",
+    "twitter": "south-east",
+    "": ""
+  },
+  {
+    "party": "The Peace Party - Non-violence",
+    "region": "Justice",
+    "name": "Environment",
+    "twitter": "south-east",
+    "": ""
+  },
+  {
+    "party": "The Peace Party - Non-violence",
+    "region": "Justice",
+    "name": "Environment",
+    "twitter": "south-east",
+    "": ""
+  },
+  {
+    "party": "The Peace Party - Non-violence",
+    "region": "Justice",
+    "name": "Environment",
+    "twitter": "south-east",
+    "": ""
+  },
+  {
+    "party": "The Peace Party - Non-violence",
+    "region": "Justice",
+    "name": "Environment",
+    "twitter": "south-east",
+    "": ""
+  },
+  {
+    "party": "Traditional Unionist Voice",
+    "region": "northern-ireland",
+    "name": "Jim Allister",
+    "twitter": "JimAllister"
+  },
+  {
+    "party": "Ulster Unionist Party",
+    "region": "northern-ireland",
+    "name": "Jim Nicholson",
+    "twitter": "JNicholsonMEP"
+  },
+  {
+    "party": "We Demand a Referendum",
+    "region": "west-midlands",
+    "name": "Nikki Sinclaire",
+    "twitter": "NSinclaireMEP"
+  },
+  {
+    "party": "We Demand a Referendum",
+    "region": "west-midlands",
+    "name": "Andy Adris",
+    "twitter": ""
+  },
+  {
+    "party": "We Demand a Referendum",
+    "region": "west-midlands",
+    "name": "Linda Brown",
+    "twitter": ""
+  },
+  {
+    "party": "We Demand a Referendum",
+    "region": "west-midlands",
+    "name": "David Bennett",
+    "twitter": ""
+  },
+  {
+    "party": "We Demand a Referendum",
+    "region": "west-midlands",
+    "name": "Judith Smart",
+    "twitter": ""
+  },
+  {
+    "party": "We Demand a Referendum",
+    "region": "west-midlands",
+    "name": "Thomas Reid",
+    "twitter": ""
+  },
+  {
+    "party": "We Demand a Referendum",
+    "region": "west-midlands",
+    "name": "Amanda Wilson",
+    "twitter": ""
+  },
+  {
+    "party": "UKIP",
+    "region": "north-east",
+    "name": "Jonathan Arnott",
+    "twitter": "JonathanArnott"
+  },
+  {
+    "party": "UKIP",
+    "region": "north-east",
+    "name": "Richard Elvin",
+    "twitter": "globalrichard"
+  },
+  {
+    "party": "UKIP",
+    "region": "north-east",
+    "name": "Philip Broughton",
+    "twitter": ""
+  },
+  {
+    "party": "UKIP",
+    "region": "yorkshire-and-the-humber",
+    "name": "Jane Collins",
+    "twitter": "Jane4ukip"
+  },
+  {
+    "party": "UKIP",
+    "region": "yorkshire-and-the-humber",
+    "name": "Amjad Bashir",
+    "twitter": ""
+  },
+  {
+    "party": "UKIP",
+    "region": "yorkshire-and-the-humber",
+    "name": "Mike Hookem",
+    "twitter": "Mike_Hookem"
+  },
+  {
+    "party": "UKIP",
+    "region": "yorkshire-and-the-humber",
+    "name": "Gary Shores",
+    "twitter": ""
+  },
+  {
+    "party": "UKIP",
+    "region": "yorkshire-and-the-humber",
+    "name": "Jason Smith",
+    "twitter": "JasonSmithUKIP"
+  },
+  {
+    "party": "UKIP",
+    "region": "yorkshire-and-the-humber",
+    "name": "Anne Murgatroyd",
+    "twitter": ""
+  },
+  {
+    "party": "UKIP",
+    "region": "eastern",
+    "name": "Patrick O'Flynn",
+    "twitter": ""
+  },
+  {
+    "party": "UKIP",
+    "region": "eastern",
+    "name": "Stuart Agnew",
+    "twitter": ""
+  },
+  {
+    "party": "UKIP",
+    "region": "eastern",
+    "name": "Tim Aker",
+    "twitter": "Tim_Aker"
+  },
+  {
+    "party": "UKIP",
+    "region": "eastern",
+    "name": "Michael Heaver",
+    "twitter": "Michael_Heaver"
+  },
+  {
+    "party": "UKIP",
+    "region": "eastern",
+    "name": "Mick McGough",
+    "twitter": "mickmcgough"
+  },
+  {
+    "party": "UKIP",
+    "region": "eastern",
+    "name": "Andy Monk",
+    "twitter": ""
+  },
+  {
+    "party": "UKIP",
+    "region": "eastern",
+    "name": "Mark Hughes",
+    "twitter": "MarkJHughes"
+  },
+  {
+    "party": "UKIP",
+    "region": "north-west",
+    "name": "Paul Nuttall",
+    "twitter": "paulnuttallukip"
+  },
+  {
+    "party": "UKIP",
+    "region": "north-west",
+    "name": "Louise Bours",
+    "twitter": ""
+  },
+  {
+    "party": "UKIP",
+    "region": "north-west",
+    "name": "Steven Woolfe",
+    "twitter": "Steven_Woolfe"
+  },
+  {
+    "party": "UKIP",
+    "region": "north-west",
+    "name": "Shneur Odze",
+    "twitter": "ShneurOdzeUKIP"
+  },
+  {
+    "party": "UKIP",
+    "region": "north-west",
+    "name": "Lee Slaughter",
+    "twitter": ""
+  },
+  {
+    "party": "UKIP",
+    "region": "north-west",
+    "name": "Simon Noble",
+    "twitter": "NibsNoble"
+  },
+  {
+    "party": "UKIP",
+    "region": "north-west",
+    "name": "Peter Harper",
+    "twitter": ""
+  },
+  {
+    "party": "UKIP",
+    "region": "north-west",
+    "name": "John Stanyer",
+    "twitter": ""
+  },
+  {
+    "party": "UKIP",
+    "region": "west-midlands",
+    "name": "Jill Seymour",
+    "twitter": "JSeymourUKIP"
+  },
+  {
+    "party": "UKIP",
+    "region": "west-midlands",
+    "name": "James Carver",
+    "twitter": "JamesJimCarver"
+  },
+  {
+    "party": "UKIP",
+    "region": "west-midlands",
+    "name": "Bill Etheridge",
+    "twitter": "milroy666"
+  },
+  {
+    "party": "UKIP",
+    "region": "west-midlands",
+    "name": "Phil Henrick",
+    "twitter": "philhenrick"
+  },
+  {
+    "party": "UKIP",
+    "region": "west-midlands",
+    "name": "Michael Wrench",
+    "twitter": ""
+  },
+  {
+    "party": "UKIP",
+    "region": "west-midlands",
+    "name": "Michael Green",
+    "twitter": "MikeGreenUKIP"
+  },
+  {
+    "party": "UKIP",
+    "region": "west-midlands",
+    "name": "Lyndon Jones",
+    "twitter": ""
+  },
+  {
+    "party": "UKIP",
+    "region": "scotland",
+    "name": "David Coburn",
+    "twitter": "DavidCoburnUKip"
+  },
+  {
+    "party": "UKIP",
+    "region": "scotland",
+    "name": "Kevin Newton",
+    "twitter": "KevinNewtonUKIP"
+  },
+  {
+    "party": "UKIP",
+    "region": "scotland",
+    "name": "Otto Inglis",
+    "twitter": "OttoInglis"
+  },
+  {
+    "party": "UKIP",
+    "region": "scotland",
+    "name": "Denise Baykal",
+    "twitter": "UKIPCowdenbeath"
+  },
+  {
+    "party": "UKIP",
+    "region": "scotland",
+    "name": "Hugh Hatrick",
+    "twitter": "hughhatrick"
+  },
+  {
+    "party": "UKIP",
+    "region": "scotland",
+    "name": "Malcolm Mackay",
+    "twitter": ""
+  },
+  {
+    "party": "UKIP",
+    "region": "east-midlands",
+    "name": "Roger Helmer",
+    "twitter": "RogerHelmerMEP"
+  },
+  {
+    "party": "UKIP",
+    "region": "east-midlands",
+    "name": "Margot Parker",
+    "twitter": "MargotLJParker"
+  },
+  {
+    "party": "UKIP",
+    "region": "east-midlands",
+    "name": "Jonathan Bullock",
+    "twitter": ""
+  },
+  {
+    "party": "UKIP",
+    "region": "east-midlands",
+    "name": "Nigel Wickens",
+    "twitter": "NigelWickens"
+  },
+  {
+    "party": "UKIP",
+    "region": "east-midlands",
+    "name": "Barry Mahoney",
+    "twitter": ""
+  },
+  {
+    "party": "UKIP",
+    "region": "london",
+    "name": "Gerard Batten",
+    "twitter": "GerardBattenMEP"
+  },
+  {
+    "party": "UKIP",
+    "region": "london",
+    "name": "Paul Oakley",
+    "twitter": "PaulJamesOakley"
+  },
+  {
+    "party": "UKIP",
+    "region": "london",
+    "name": "Elizabeth Jones",
+    "twitter": "UKIPbrixtonHill"
+  },
+  {
+    "party": "UKIP",
+    "region": "london",
+    "name": "Lawrence Webb",
+    "twitter": "UKIPWebb4London"
+  },
+  {
+    "party": "UKIP",
+    "region": "london",
+    "name": "Alastair McFarlane",
+    "twitter": ""
+  },
+  {
+    "party": "UKIP",
+    "region": "london",
+    "name": "Anthony Brown",
+    "twitter": "libertariantony"
+  },
+  {
+    "party": "UKIP",
+    "region": "london",
+    "name": "Andrew McNeilis",
+    "twitter": "andrewmcneilis"
+  },
+  {
+    "party": "UKIP",
+    "region": "london",
+    "name": "Peter Whittle",
+    "twitter": ""
+  },
+  {
+    "party": "UKIP",
+    "region": "south-east",
+    "name": "Nigel Farage",
+    "twitter": "Nigel_Farage"
+  },
+  {
+    "party": "UKIP",
+    "region": "south-east",
+    "name": "Janice Atkinson",
+    "twitter": "JaniceUKIP"
+  },
+  {
+    "party": "UKIP",
+    "region": "south-east",
+    "name": "Diane James",
+    "twitter": "DianeUKIP"
+  },
+  {
+    "party": "UKIP",
+    "region": "south-east",
+    "name": "Ray Finch",
+    "twitter": "raymondfinch"
+  },
+  {
+    "party": "UKIP",
+    "region": "south-east",
+    "name": "Donna Edmunds",
+    "twitter": "DonnaInSussex"
+  },
+  {
+    "party": "UKIP",
+    "region": "south-east",
+    "name": "Patricia Culligan",
+    "twitter": "CulliganPA"
+  },
+  {
+    "party": "UKIP",
+    "region": "south-east",
+    "name": "Nigel Jones",
+    "twitter": ""
+  },
+  {
+    "party": "UKIP",
+    "region": "south-east",
+    "name": "Alan Stevens",
+    "twitter": "AWAHStevens"
+  },
+  {
+    "party": "UKIP",
+    "region": "south-east",
+    "name": "Simon Strutt",
+    "twitter": ""
+  },
+  {
+    "party": "UKIP",
+    "region": "south-east",
+    "name": "Barry Cooper",
+    "twitter": "waddesdonbaz"
+  },
+  {
+    "party": "UKIP",
+    "region": "northern-ireland",
+    "name": "Henry Reilly",
+    "twitter": "HenryReillyukip"
+  },
+  {
+    "party": "UKIP",
+    "region": "wales",
+    "name": "Nathan Gill",
+    "twitter": "NathanGillMEP"
+  },
+  {
+    "party": "UKIP",
+    "region": "wales",
+    "name": "James Cole",
+    "twitter": ""
+  },
+  {
+    "party": "UKIP",
+    "region": "wales",
+    "name": "Caroline Jones",
+    "twitter": ""
+  },
+  {
+    "party": "UKIP",
+    "region": "wales",
+    "name": "David Rowlands",
+    "twitter": ""
+  },
+  {
+    "party": "UKIP",
+    "region": "south-west",
+    "name": "William Dartmouth",
+    "twitter": ""
+  },
+  {
+    "party": "UKIP",
+    "region": "south-west",
+    "name": "Julia Reid",
+    "twitter": "Julia__Reid"
+  },
+  {
+    "party": "UKIP",
+    "region": "south-west",
+    "name": "Gawain Towler",
+    "twitter": "GawainTowler"
+  },
+  {
+    "party": "UKIP",
+    "region": "south-west",
+    "name": "Tony McIntyre",
+    "twitter": ""
+  },
+  {
+    "party": "UKIP",
+    "region": "south-west",
+    "name": "Robert Smith",
+    "twitter": ""
+  },
+  {
+    "party": "UKIP",
+    "region": "south-west",
+    "name": "Keith Crawford",
+    "twitter": ""
+  },
+  {
+    "party": "Scottish National Party",
+    "region": "scotland",
+    "name": "Ian Hudghton",
+    "twitter": "hudghtonmepSNP"
+  },
+  {
+    "party": "Scottish National Party",
+    "region": "scotland",
+    "name": "Alyn Smith",
+    "twitter": "AlynSmithMEP"
+  },
+  {
+    "party": "Scottish National Party",
+    "region": "scotland",
+    "name": "Tasmina Ahmed-Sheikh",
+    "twitter": "TasminaSheikh"
+  },
+  {
+    "party": "Scottish National Party",
+    "region": "scotland",
+    "name": "Stephen Gethins",
+    "twitter": "StephenGethins"
+  },
+  {
+    "party": "Scottish National Party",
+    "region": "scotland",
+    "name": "Toni Giugliano",
+    "twitter": "ToniGiugliano"
+  },
+  {
+    "party": "Scottish National Party",
+    "region": "scotland",
+    "name": "Chris Stephens",
+    "twitter": "CStephenssnp"
+  },
+  {
+    "party": "Plaid Cymru",
+    "region": "wales",
+    "name": "Jill Evans",
+    "twitter": "JillEvansMEP"
+  },
+  {
+    "party": "Plaid Cymru",
+    "region": "wales",
+    "name": "Marc Jones",
+    "twitter": "marcvjones"
+  },
+  {
+    "party": "Plaid Cymru",
+    "region": "wales",
+    "name": "Stephen Cornelius",
+    "twitter": ""
+  },
+  {
+    "party": "Plaid Cymru",
+    "region": "wales",
+    "name": "Ioan Bellin",
+    "twitter": "Ioanbellin"
+  },
+  {
+    "party": "English Democrats",
+    "region": "north-east",
+    "name": "Kevin Riddiough",
+    "twitter": "kev927riddy"
+  },
+  {
+    "party": "English Democrats",
+    "region": "north-east",
+    "name": "Sam Kelly",
+    "twitter": ""
+  },
+  {
+    "party": "English Democrats",
+    "region": "north-east",
+    "name": "John Lewis",
+    "twitter": ""
+  },
+  {
+    "party": "English Democrats",
+    "region": "yorkshire-and-the-humber",
+    "name": "Chris Beverley",
+    "twitter": "chrisbeverley"
+  },
+  {
+    "party": "English Democrats",
+    "region": "yorkshire-and-the-humber",
+    "name": "David Wildgoose",
+    "twitter": "EnglishGoose"
+  },
+  {
+    "party": "English Democrats",
+    "region": "yorkshire-and-the-humber",
+    "name": "Ian Sutton",
+    "twitter": ""
+  },
+  {
+    "party": "English Democrats",
+    "region": "yorkshire-and-the-humber",
+    "name": "Colin Porter",
+    "twitter": ""
+  },
+  {
+    "party": "English Democrats",
+    "region": "yorkshire-and-the-humber",
+    "name": "Tom Redmond",
+    "twitter": ""
+  },
+  {
+    "party": "English Democrats",
+    "region": "yorkshire-and-the-humber",
+    "name": "David Allen",
+    "twitter": ""
+  },
+  {
+    "party": "English Democrats",
+    "region": "west-midlands",
+    "name": "Derek Hilling",
+    "twitter": "DerekJHilling"
+  },
+  {
+    "party": "English Democrats",
+    "region": "west-midlands",
+    "name": "Chris Newey",
+    "twitter": ""
+  },
+  {
+    "party": "English Democrats",
+    "region": "west-midlands",
+    "name": "Steve Paxton",
+    "twitter": ""
+  },
+  {
+    "party": "English Democrats",
+    "region": "west-midlands",
+    "name": "Charles Hayward",
+    "twitter": ""
+  },
+  {
+    "party": "English Democrats",
+    "region": "west-midlands",
+    "name": "Margaret Stoll",
+    "twitter": ""
+  },
+  {
+    "party": "English Democrats",
+    "region": "west-midlands",
+    "name": "David Lane",
+    "twitter": ""
+  },
+  {
+    "party": "English Democrats",
+    "region": "west-midlands",
+    "name": "Fred Bishop",
+    "twitter": ""
+  },
+  {
+    "party": "English Democrats",
+    "region": "north-west",
+    "name": "Stephen Morris",
+    "twitter": "SteMorris"
+  },
+  {
+    "party": "English Democrats",
+    "region": "north-west",
+    "name": "Paul Rimmer",
+    "twitter": ""
+  },
+  {
+    "party": "English Democrats",
+    "region": "north-west",
+    "name": "Derek Bullock",
+    "twitter": ""
+  },
+  {
+    "party": "English Democrats",
+    "region": "north-west",
+    "name": "Paul Whitelegg",
+    "twitter": ""
+  },
+  {
+    "party": "English Democrats",
+    "region": "north-west",
+    "name": "Steve McEllenborough",
+    "twitter": ""
+  },
+  {
+    "party": "English Democrats",
+    "region": "north-west",
+    "name": "Laurence Depares",
+    "twitter": ""
+  },
+  {
+    "party": "English Democrats",
+    "region": "north-west",
+    "name": "Valerie Morris",
+    "twitter": "ValMorris"
+  },
+  {
+    "party": "English Democrats",
+    "region": "north-west",
+    "name": "Anthony Backhouse",
+    "twitter": ""
+  },
+  {
+    "party": "English Democrats",
+    "region": "eastern",
+    "name": "Robin Tilbrook",
+    "twitter": "RobinTilbrook"
+  },
+  {
+    "party": "English Democrats",
+    "region": "eastern",
+    "name": "Charles Vickers",
+    "twitter": "charlesvickers"
+  },
+  {
+    "party": "English Democrats",
+    "region": "eastern",
+    "name": "Stephen Goldspink",
+    "twitter": ""
+  },
+  {
+    "party": "English Democrats",
+    "region": "eastern",
+    "name": "Maria Situmbeko",
+    "twitter": ""
+  },
+  {
+    "party": "English Democrats",
+    "region": "eastern",
+    "name": "Bridget Cowan",
+    "twitter": ""
+  },
+  {
+    "party": "English Democrats",
+    "region": "eastern",
+    "name": "Don Whitbread",
+    "twitter": ""
+  },
+  {
+    "party": "English Democrats",
+    "region": "eastern",
+    "name": "Jeremy Moreton-Moss",
+    "twitter": ""
+  },
+  {
+    "party": "English Democrats",
+    "region": "east-midlands",
+    "name": "Kevin Sills",
+    "twitter": "KSillsEngDem"
+  },
+  {
+    "party": "English Democrats",
+    "region": "east-midlands",
+    "name": "Dave Wickham",
+    "twitter": ""
+  },
+  {
+    "party": "English Democrats",
+    "region": "east-midlands",
+    "name": "John Dowle",
+    "twitter": ""
+  },
+  {
+    "party": "English Democrats",
+    "region": "east-midlands",
+    "name": "Oliver Healey",
+    "twitter": ""
+  },
+  {
+    "party": "English Democrats",
+    "region": "east-midlands",
+    "name": "Terry Spencer",
+    "twitter": ""
+  },
+  {
+    "party": "English Democrats",
+    "region": "south-east",
+    "name": "Steve Uncles",
+    "twitter": "SteveUncles"
+  },
+  {
+    "party": "English Democrats",
+    "region": "south-east",
+    "name": "Julia Gasper",
+    "twitter": ""
+  },
+  {
+    "party": "English Democrats",
+    "region": "south-east",
+    "name": "Amanda Hopwood",
+    "twitter": ""
+  },
+  {
+    "party": "English Democrats",
+    "region": "south-east",
+    "name": "Simone Clarke",
+    "twitter": ""
+  },
+  {
+    "party": "English Democrats",
+    "region": "south-east",
+    "name": "Steve Clegg",
+    "twitter": ""
+  },
+  {
+    "party": "English Democrats",
+    "region": "south-east",
+    "name": "Milly Uncles",
+    "twitter": ""
+  },
+  {
+    "party": "English Democrats",
+    "region": "south-east",
+    "name": "Mike Russell",
+    "twitter": ""
+  },
+  {
+    "party": "English Democrats",
+    "region": "south-east",
+    "name": "Mike Tibby",
+    "twitter": ""
+  },
+  {
+    "party": "English Democrats",
+    "region": "south-east",
+    "name": "Doreen Dye",
+    "twitter": ""
+  },
+  {
+    "party": "English Democrats",
+    "region": "south-east",
+    "name": "William James",
+    "twitter": ""
+  },
+  {
+    "party": "English Democrats",
+    "region": "london",
+    "name": "Jenny Knight",
+    "twitter": "jennyknight2014"
+  },
+  {
+    "party": "English Democrats",
+    "region": "london",
+    "name": "Matthew Roberts",
+    "twitter": ""
+  },
+  {
+    "party": "English Democrats",
+    "region": "london",
+    "name": "Maggi Young",
+    "twitter": ""
+  },
+  {
+    "party": "English Democrats",
+    "region": "london",
+    "name": "Graham Clipperton",
+    "twitter": ""
+  },
+  {
+    "party": "English Democrats",
+    "region": "london",
+    "name": "Gary Butler",
+    "twitter": ""
+  },
+  {
+    "party": "English Democrats",
+    "region": "london",
+    "name": "Nick Capp",
+    "twitter": ""
+  },
+  {
+    "party": "English Democrats",
+    "region": "london",
+    "name": "Louise Dutton",
+    "twitter": ""
+  },
+  {
+    "party": "English Democrats",
+    "region": "london",
+    "name": "Natalie Smith",
+    "twitter": ""
+  },
+  {
+    "party": "English Democrats",
+    "region": "south-west",
+    "name": "Alan England",
+    "twitter": ""
+  },
+  {
+    "party": "English Democrats",
+    "region": "south-west",
+    "name": "Mike Blundell",
+    "twitter": ""
+  },
+  {
+    "party": "English Democrats",
+    "region": "south-west",
+    "name": "Clive Lavelle",
+    "twitter": ""
+  },
+  {
+    "party": "English Democrats",
+    "region": "south-west",
+    "name": "Barbara Wright",
+    "twitter": ""
+  },
+  {
+    "party": "English Democrats",
+    "region": "south-west",
+    "name": "Stephen Wright",
+    "twitter": ""
+  },
+  {
+    "party": "English Democrats",
+    "region": "south-west",
+    "name": "Raymond Carr",
+    "twitter": ""
+  },
+  {
+    "party": "Christian Peoples Alliance",
+    "region": "south-east",
+    "name": "Norman Burnett",
+    "twitter": ""
+  },
+  {
+    "party": "Christian Peoples Alliance",
+    "region": "south-east",
+    "name": "Suzanne Fernandes",
+    "twitter": ""
+  },
+  {
+    "party": "Christian Peoples Alliance",
+    "region": "south-east",
+    "name": "Flora Amar",
+    "twitter": ""
+  },
+  {
+    "party": "Christian Peoples Alliance",
+    "region": "south-east",
+    "name": "Rev Anthony",
+    "twitter": ""
+  },
+  {
+    "party": "Christian Peoples Alliance",
+    "region": "south-east",
+    "name": "Dorothy Mugara",
+    "twitter": ""
+  },
+  {
+    "party": "Christian Peoples Alliance",
+    "region": "south-east",
+    "name": "Kayode Shedowo",
+    "twitter": ""
+  },
+  {
+    "party": "Christian Peoples Alliance",
+    "region": "south-east",
+    "name": "Bridget Oyekan",
+    "twitter": ""
+  },
+  {
+    "party": "Christian Peoples Alliance",
+    "region": "south-east",
+    "name": "Nnenna St Luce",
+    "twitter": ""
+  },
+  {
+    "party": "Christian Peoples Alliance",
+    "region": "south-east",
+    "name": "Chikka Roja",
+    "twitter": ""
+  },
+  {
+    "party": "Christian Peoples Alliance",
+    "region": "london",
+    "name": "Sid Cordle",
+    "twitter": ""
+  },
+  {
+    "party": "Christian Peoples Alliance",
+    "region": "london",
+    "name": "Yemi Awolola",
+    "twitter": ""
+  },
+  {
+    "party": "Christian Peoples Alliance",
+    "region": "london",
+    "name": "Ashley Dickenson",
+    "twitter": ""
+  },
+  {
+    "party": "Christian Peoples Alliance",
+    "region": "london",
+    "name": "Sharmilla Swarna",
+    "twitter": ""
+  },
+  {
+    "party": "Christian Peoples Alliance",
+    "region": "london",
+    "name": "Laurence Williams",
+    "twitter": ""
+  },
+  {
+    "party": "Christian Peoples Alliance",
+    "region": "london",
+    "name": "Ethel Odiete",
+    "twitter": ""
+  },
+  {
+    "party": "Christian Peoples Alliance",
+    "region": "london",
+    "name": "Kevin Nichols",
+    "twitter": ""
+  },
+  {
+    "party": "Christian Peoples Alliance",
+    "region": "london",
+    "name": "Stephen Hammond",
+    "twitter": ""
+  },
+  {
+    "party": "Christian Peoples Alliance",
+    "region": "eastern",
+    "name": "Carl Clark",
+    "twitter": ""
+  },
+  {
+    "party": "Christian Peoples Alliance",
+    "region": "eastern",
+    "name": "Mark Clamp",
+    "twitter": ""
+  },
+  {
+    "party": "Christian Peoples Alliance",
+    "region": "eastern",
+    "name": "Chris Olley",
+    "twitter": ""
+  },
+  {
+    "party": "Christian Peoples Alliance",
+    "region": "eastern",
+    "name": "Stephen Todd",
+    "twitter": ""
+  },
+  {
+    "party": "Christian Peoples Alliance",
+    "region": "eastern",
+    "name": "Jane Clamp",
+    "twitter": ""
+  },
+  {
+    "party": "Christian Peoples Alliance",
+    "region": "eastern",
+    "name": "Kirsty Evans",
+    "twitter": ""
+  },
+  {
+    "party": "Christian Peoples Alliance",
+    "region": "eastern",
+    "name": "Kevin Austin",
+    "twitter": ""
+  },
+  {
+    "party": "Liberal Democrats",
+    "region": "north-east",
+    "name": "Angelika Schneider",
+    "twitter": "Angel4theNorth"
+  },
+  {
+    "party": "Liberal Democrats",
+    "region": "north-east",
+    "name": "Owen Temple",
+    "twitter": "OwenTemple2"
+  },
+  {
+    "party": "Liberal Democrats",
+    "region": "north-east",
+    "name": "Christian Vassie",
+    "twitter": "christianvassie"
+  },
+  {
+    "party": "Liberal Democrats",
+    "region": "yorkshire-and-the-humber",
+    "name": "Edward McMillan-Scott",
+    "twitter": "emcmillanscott"
+  },
+  {
+    "party": "Liberal Democrats",
+    "region": "yorkshire-and-the-humber",
+    "name": "James Monaghan",
+    "twitter": "JamesMonaghan"
+  },
+  {
+    "party": "Liberal Democrats",
+    "region": "yorkshire-and-the-humber",
+    "name": "Joe Otten",
+    "twitter": "CllrJoeOtten"
+  },
+  {
+    "party": "Liberal Democrats",
+    "region": "yorkshire-and-the-humber",
+    "name": "Chris Foote-Wood",
+    "twitter": "ChrisasDickens"
+  },
+  {
+    "party": "Liberal Democrats",
+    "region": "yorkshire-and-the-humber",
+    "name": "Jacqueline Bell",
+    "twitter": ""
+  },
+  {
+    "party": "Liberal Democrats",
+    "region": "yorkshire-and-the-humber",
+    "name": "Aqila Choudhry",
+    "twitter": ""
+  },
+  {
+    "party": "Liberal Democrats",
+    "region": "eastern",
+    "name": "Andrew Duff",
+    "twitter": "Andrew_Duff_MEP"
+  },
+  {
+    "party": "Liberal Democrats",
+    "region": "eastern",
+    "name": "Josephine Hayes",
+    "twitter": "JoHayesLibDem"
+  },
+  {
+    "party": "Liberal Democrats",
+    "region": "eastern",
+    "name": "Belinda Brooks-Gordon",
+    "twitter": "BelindaBG"
+  },
+  {
+    "party": "Liberal Democrats",
+    "region": "eastern",
+    "name": "Stephen Robinson",
+    "twitter": "sj_robinson"
+  },
+  {
+    "party": "Liberal Democrats",
+    "region": "eastern",
+    "name": "Michael Green",
+    "twitter": "michaelgreen01"
+  },
+  {
+    "party": "Liberal Democrats",
+    "region": "eastern",
+    "name": "Linda Jack",
+    "twitter": "Lindylooz"
+  },
+  {
+    "party": "Liberal Democrats",
+    "region": "eastern",
+    "name": "Hugh Annand",
+    "twitter": "Hugh_Annand"
+  },
+  {
+    "party": "Liberal Democrats",
+    "region": "north-west",
+    "name": "Chris Davies",
+    "twitter": "ChrisDaviesMEP"
+  },
+  {
+    "party": "Liberal Democrats",
+    "region": "north-west",
+    "name": "Helen Foster-Grime",
+    "twitter": "helen_fg"
+  },
+  {
+    "party": "Liberal Democrats",
+    "region": "north-west",
+    "name": "Jo Crotty",
+    "twitter": "ProfJoCrotty"
+  },
+  {
+    "party": "Liberal Democrats",
+    "region": "north-west",
+    "name": "Qassim Afzal",
+    "twitter": "QassimAfzal"
+  },
+  {
+    "party": "Liberal Democrats",
+    "region": "north-west",
+    "name": "Jane Brophy",
+    "twitter": "Cllr_JaneBrophy"
+  },
+  {
+    "party": "Liberal Democrats",
+    "region": "north-west",
+    "name": "Sue McGuire",
+    "twitter": "sue_mcguire"
+  },
+  {
+    "party": "Liberal Democrats",
+    "region": "north-west",
+    "name": "Gordon Lishman",
+    "twitter": ""
+  },
+  {
+    "party": "Liberal Democrats",
+    "region": "north-west",
+    "name": "Neil Christian",
+    "twitter": "Neil_Christian"
+  },
+  {
+    "party": "Liberal Democrats",
+    "region": "west-midlands",
+    "name": "Phil Bennion",
+    "twitter": "PhilBennionMEP"
+  },
+  {
+    "party": "Liberal Democrats",
+    "region": "west-midlands",
+    "name": "Jonathan Webber",
+    "twitter": "JPMWebber"
+  },
+  {
+    "party": "Liberal Democrats",
+    "region": "west-midlands",
+    "name": "Christine Tinker",
+    "twitter": "ctinker2"
+  },
+  {
+    "party": "Liberal Democrats",
+    "region": "west-midlands",
+    "name": "Ayoub Khan",
+    "twitter": "AyoubKhanPCC"
+  },
+  {
+    "party": "Liberal Democrats",
+    "region": "west-midlands",
+    "name": "Tim Bearder",
+    "twitter": "timbearder"
+  },
+  {
+    "party": "Liberal Democrats",
+    "region": "west-midlands",
+    "name": "Neville Farmer",
+    "twitter": "nevillefarmer"
+  },
+  {
+    "party": "Liberal Democrats",
+    "region": "west-midlands",
+    "name": "John Redfern",
+    "twitter": ""
+  },
+  {
+    "party": "Liberal Democrats",
+    "region": "scotland",
+    "name": "George Lyon",
+    "twitter": "georgelyonmep"
+  },
+  {
+    "party": "Liberal Democrats",
+    "region": "scotland",
+    "name": "Christine Jardine",
+    "twitter": "Cajardine"
+  },
+  {
+    "party": "Liberal Democrats",
+    "region": "scotland",
+    "name": "Richard Brodie",
+    "twitter": ""
+  },
+  {
+    "party": "Liberal Democrats",
+    "region": "scotland",
+    "name": "Jade Holden",
+    "twitter": "JadeEHolden"
+  },
+  {
+    "party": "Liberal Democrats",
+    "region": "scotland",
+    "name": "Siobhan Mathers",
+    "twitter": ""
+  },
+  {
+    "party": "Liberal Democrats",
+    "region": "scotland",
+    "name": "Euan Davidson",
+    "twitter": "euandavidson"
+  },
+  {
+    "party": "Liberal Democrats",
+    "region": "east-midlands",
+    "name": "Bill Newton Dunn",
+    "twitter": "billnewtondunn"
+  },
+  {
+    "party": "Liberal Democrats",
+    "region": "east-midlands",
+    "name": "Issan Ghazni",
+    "twitter": "Issanghazni"
+  },
+  {
+    "party": "Liberal Democrats",
+    "region": "east-midlands",
+    "name": "Phil Knowles",
+    "twitter": "PhilKnowlesLD"
+  },
+  {
+    "party": "Liberal Democrats",
+    "region": "east-midlands",
+    "name": "George Smid",
+    "twitter": "GeorgeSmid"
+  },
+  {
+    "party": "Liberal Democrats",
+    "region": "east-midlands",
+    "name": "Deborah Newton-Cook",
+    "twitter": "DNewtonCook"
+  },
+  {
+    "party": "Liberal Democrats",
+    "region": "south-east",
+    "name": "Catherine Bearder",
+    "twitter": "catherinemep"
+  },
+  {
+    "party": "Liberal Democrats",
+    "region": "south-east",
+    "name": "Anthony Hook",
+    "twitter": "antonyhook"
+  },
+  {
+    "party": "Liberal Democrats",
+    "region": "south-east",
+    "name": "Dinti Batstone",
+    "twitter": "DintiBatstone"
+  },
+  {
+    "party": "Liberal Democrats",
+    "region": "south-east",
+    "name": "Giles Goodall",
+    "twitter": "GoodallGiles"
+  },
+  {
+    "party": "Liberal Democrats",
+    "region": "south-east",
+    "name": "Ian Bearder",
+    "twitter": "IanBearder"
+  },
+  {
+    "party": "Liberal Democrats",
+    "region": "south-east",
+    "name": "Allis Moss",
+    "twitter": ""
+  },
+  {
+    "party": "Liberal Democrats",
+    "region": "south-east",
+    "name": "Steve Sollitt",
+    "twitter": "stevesollitt"
+  },
+  {
+    "party": "Liberal Democrats",
+    "region": "south-east",
+    "name": "Bruce Tennent",
+    "twitter": "BruceTennent"
+  },
+  {
+    "party": "Liberal Democrats",
+    "region": "south-east",
+    "name": "John Vincent",
+    "twitter": ""
+  },
+  {
+    "party": "Liberal Democrats",
+    "region": "south-east",
+    "name": "Alan Bullion",
+    "twitter": "AlanBullion"
+  },
+  {
+    "party": "Liberal Democrats",
+    "region": "london",
+    "name": "Sarah Ludford",
+    "twitter": "SarahLudfordMEP"
+  },
+  {
+    "party": "Liberal Democrats",
+    "region": "london",
+    "name": "Jonathan Fryer",
+    "twitter": "jonathanfryer"
+  },
+  {
+    "party": "Liberal Democrats",
+    "region": "london",
+    "name": "Richard Davis",
+    "twitter": "DrDickyD"
+  },
+  {
+    "party": "Liberal Democrats",
+    "region": "london",
+    "name": "Anuja Prashar",
+    "twitter": "AnujaPrashar"
+  },
+  {
+    "party": "Liberal Democrats",
+    "region": "london",
+    "name": "Rosina Robson",
+    "twitter": "RosinaRobson"
+  },
+  {
+    "party": "Liberal Democrats",
+    "region": "london",
+    "name": "Turhan Ozen",
+    "twitter": "tozen"
+  },
+  {
+    "party": "Liberal Democrats",
+    "region": "london",
+    "name": "Simon James",
+    "twitter": "simon4europe"
+  },
+  {
+    "party": "Liberal Democrats",
+    "region": "london",
+    "name": "Matt McLaren",
+    "twitter": "mattjmclaren"
+  },
+  {
+    "party": "Liberal Democrats",
+    "region": "wales",
+    "name": "Alec Dauncey",
+    "twitter": "alecaberystwyth"
+  },
+  {
+    "party": "Liberal Democrats",
+    "region": "wales",
+    "name": "Rob Speht",
+    "twitter": ""
+  },
+  {
+    "party": "Liberal Democrats",
+    "region": "wales",
+    "name": "Jackie Radford",
+    "twitter": ""
+  },
+  {
+    "party": "Liberal Democrats",
+    "region": "wales",
+    "name": "Bruce Roberts",
+    "twitter": "WxmBruce"
+  },
+  {
+    "party": "Liberal Democrats",
+    "region": "south-west",
+    "name": "Graham Watson",
+    "twitter": "grahamwatsonmep"
+  },
+  {
+    "party": "Liberal Democrats",
+    "region": "south-west",
+    "name": "Kay Barnard",
+    "twitter": "Kay_Barnard"
+  },
+  {
+    "party": "Liberal Democrats",
+    "region": "south-west",
+    "name": "Brian Matthew",
+    "twitter": ""
+  },
+  {
+    "party": "Liberal Democrats",
+    "region": "south-west",
+    "name": "Andrew Wigley",
+    "twitter": "andrewwigley"
+  },
+  {
+    "party": "Liberal Democrats",
+    "region": "south-west",
+    "name": "Jay Risbridger",
+    "twitter": "JayRisbridger"
+  },
+  {
+    "party": "Liberal Democrats",
+    "region": "south-west",
+    "name": "Lyana Armstrong-Emery",
+    "twitter": ""
+  },
+  {
+    "party": "YOURvoice Party",
+    "region": "south-east",
+    "name": "Julian James",
+    "twitter": ""
+  },
+  {
+    "party": "YOURvoice Party",
+    "region": "south-east",
+    "name": "Rachel Ling",
+    "twitter": "LocalRachel"
+  },
+  {
+    "party": "YOURvoice Party",
+    "region": "south-east",
+    "name": "Fulvia James",
+    "twitter": ""
+  },
+  {
+    "party": "The Roman Party.AVE",
+    "region": "south-east",
+    "name": "Jean-Louis Pascual",
+    "twitter": ""
+  },
+  {
+    "party": "Green Party",
+    "region": "south-west",
+    "name": "Molly Scott Cato",
+    "twitter": "MollyScottCato"
+  },
+  {
+    "party": "Green Party",
+    "region": "south-west",
+    "name": "Emily McIvor",
+    "twitter": ""
+  },
+  {
+    "party": "Green Party",
+    "region": "south-west",
+    "name": "Ricky Knight",
+    "twitter": "greenknight49"
+  },
+  {
+    "party": "Green Party",
+    "region": "south-west",
+    "name": "Audaye Elesedy",
+    "twitter": "audaye"
+  },
+  {
+    "party": "Green Party",
+    "region": "south-west",
+    "name": "Judy Maciejowska",
+    "twitter": "judymaciejowska"
+  },
+  {
+    "party": "Green Party",
+    "region": "south-west",
+    "name": "Mark Chivers",
+    "twitter": ""
+  },
+  {
+    "party": "Green Party",
+    "region": "yorkshire-and-the-humber",
+    "name": "Andrew Cooper",
+    "twitter": "clrandrewcooper"
+  },
+  {
+    "party": "Green Party",
+    "region": "yorkshire-and-the-humber",
+    "name": "Shan Oakes",
+    "twitter": "shanoakes"
+  },
+  {
+    "party": "Green Party",
+    "region": "yorkshire-and-the-humber",
+    "name": "Dr Vicky Dunn",
+    "twitter": "HumberGreen"
+  },
+  {
+    "party": "Green Party",
+    "region": "yorkshire-and-the-humber",
+    "name": "Denise Craghill",
+    "twitter": "DeniseCraghill"
+  },
+  {
+    "party": "Green Party",
+    "region": "yorkshire-and-the-humber",
+    "name": "Martin Hemingway",
+    "twitter": "yorksgreenmarti"
+  },
+  {
+    "party": "Green Party",
+    "region": "yorkshire-and-the-humber",
+    "name": "Kevin Warnes",
+    "twitter": "kevinwarnes"
+  },
+  {
+    "party": "Green Party",
+    "region": "eastern",
+    "name": "Rupert Read",
+    "twitter": "GreenRupertRead"
+  },
+  {
+    "party": "Green Party",
+    "region": "eastern",
+    "name": "Mark Ereira-Guyer",
+    "twitter": "markereiraguyer"
+  },
+  {
+    "party": "Green Party",
+    "region": "eastern",
+    "name": "Jill Mills",
+    "twitter": ""
+  },
+  {
+    "party": "Green Party",
+    "region": "eastern",
+    "name": "Ash Haynes",
+    "twitter": "ashlizhaynes"
+  },
+  {
+    "party": "Green Party",
+    "region": "eastern",
+    "name": "Marc Scheimann",
+    "twitter": ""
+  },
+  {
+    "party": "Green Party",
+    "region": "eastern",
+    "name": "Robert Lindsay",
+    "twitter": "robjlinds"
+  },
+  {
+    "party": "Green Party",
+    "region": "eastern",
+    "name": "Fiona Radic",
+    "twitter": "FionaRadic"
+  },
+  {
+    "party": "Green Party",
+    "region": "west-midlands",
+    "name": "Will Duckworth",
+    "twitter": "WillDuckworthGP"
+  },
+  {
+    "party": "Green Party",
+    "region": "west-midlands",
+    "name": "Aldo Mussi",
+    "twitter": ""
+  },
+  {
+    "party": "Green Party",
+    "region": "west-midlands",
+    "name": "Vicky Duckworth",
+    "twitter": "VickyDuckworth"
+  },
+  {
+    "party": "Green Party",
+    "region": "west-midlands",
+    "name": "Tom Harris",
+    "twitter": "mrtomharris"
+  },
+  {
+    "party": "Green Party",
+    "region": "west-midlands",
+    "name": "Karl Macnaughton",
+    "twitter": "CllrKarl"
+  },
+  {
+    "party": "Green Party",
+    "region": "west-midlands",
+    "name": "Duncan Kerr",
+    "twitter": "DunxKerr"
+  },
+  {
+    "party": "Green Party",
+    "region": "west-midlands",
+    "name": "Laura Vesty",
+    "twitter": ""
+  },
+  {
+    "party": "Green Party",
+    "region": "east-midlands",
+    "name": "Kat Boettge",
+    "twitter": "KatBoettge"
+  },
+  {
+    "party": "Green Party",
+    "region": "east-midlands",
+    "name": "Sue Mallender",
+    "twitter": "Sue_Mallender"
+  },
+  {
+    "party": "Green Party",
+    "region": "east-midlands",
+    "name": "Richard Mallender",
+    "twitter": "CllrRMallender"
+  },
+  {
+    "party": "Green Party",
+    "region": "east-midlands",
+    "name": "Peter Allen",
+    "twitter": "petergreenleft"
+  },
+  {
+    "party": "Green Party",
+    "region": "east-midlands",
+    "name": "Simon Hales",
+    "twitter": "shales73"
+  },
+  {
+    "party": "Green Party",
+    "region": "north-west",
+    "name": "Peter Cranie",
+    "twitter": "PeterCranie"
+  },
+  {
+    "party": "Green Party",
+    "region": "north-west",
+    "name": "Gina Dowding",
+    "twitter": ""
+  },
+  {
+    "party": "Green Party",
+    "region": "north-west",
+    "name": "Laura Bannister",
+    "twitter": ""
+  },
+  {
+    "party": "Green Party",
+    "region": "north-west",
+    "name": "Jill Perry",
+    "twitter": ""
+  },
+  {
+    "party": "Green Party",
+    "region": "north-west",
+    "name": "John Knight",
+    "twitter": ""
+  },
+  {
+    "party": "Green Party",
+    "region": "north-west",
+    "name": "Ulrike Zeshan",
+    "twitter": ""
+  },
+  {
+    "party": "Green Party",
+    "region": "north-west",
+    "name": "Lewis Coyne",
+    "twitter": "LewisCoyne"
+  },
+  {
+    "party": "Green Party",
+    "region": "north-west",
+    "name": "Jake Welsh",
+    "twitter": "veganfishcake"
+  },
+  {
+    "party": "Green Party",
+    "region": "london",
+    "name": "Jean Lambert",
+    "twitter": "GreenJeanMEP"
+  },
+  {
+    "party": "Green Party",
+    "region": "london",
+    "name": "Caroline Allen",
+    "twitter": "Green_Caroline"
+  },
+  {
+    "party": "Green Party",
+    "region": "london",
+    "name": "Haroon Saad",
+    "twitter": "HaroonSaad1"
+  },
+  {
+    "party": "Green Party",
+    "region": "london",
+    "name": "Shahrar Ali",
+    "twitter": "shahrarali"
+  },
+  {
+    "party": "Green Party",
+    "region": "london",
+    "name": "Danny Bates",
+    "twitter": "Green_DannyB"
+  },
+  {
+    "party": "Green Party",
+    "region": "london",
+    "name": "Tracey Hague",
+    "twitter": ""
+  },
+  {
+    "party": "Green Party",
+    "region": "london",
+    "name": "Violeta Vajda",
+    "twitter": "violetavajda"
+  },
+  {
+    "party": "Green Party",
+    "region": "london",
+    "name": "Amelia Womack",
+    "twitter": "green_ballerina"
+  },
+  {
+    "party": "Green Party",
+    "region": "wales",
+    "name": "Pippa Bartolotti",
+    "twitter": "pippabartolotti"
+  },
+  {
+    "party": "Green Party",
+    "region": "wales",
+    "name": "John Matthews",
+    "twitter": ""
+  },
+  {
+    "party": "Green Party",
+    "region": "wales",
+    "name": "Chris Were",
+    "twitter": "ChristopherWere"
+  },
+  {
+    "party": "Green Party",
+    "region": "wales",
+    "name": "Rozz Cutler",
+    "twitter": ""
+  },
+  {
+    "party": "Green Party",
+    "region": "north-east",
+    "name": "Shirley Ford",
+    "twitter": "ShirleyFord15"
+  },
+  {
+    "party": "Green Party",
+    "region": "north-east",
+    "name": "Alison Whalley",
+    "twitter": "alisonjwhalley"
+  },
+  {
+    "party": "Green Party",
+    "region": "north-east",
+    "name": "Caroline Robinson",
+    "twitter": ""
+  },
+  {
+    "party": "Green Party",
+    "region": "south-east",
+    "name": "Keith Taylor",
+    "twitter": "GreenKeithMEP"
+  },
+  {
+    "party": "Green Party",
+    "region": "south-east",
+    "name": "Alexandra Phillips",
+    "twitter": ""
+  },
+  {
+    "party": "Green Party",
+    "region": "south-east",
+    "name": "Derek Wall",
+    "twitter": "Anothergreen"
+  },
+  {
+    "party": "Green Party",
+    "region": "south-east",
+    "name": "Jason Kitcat",
+    "twitter": "jasonkitcat"
+  },
+  {
+    "party": "Green Party",
+    "region": "south-east",
+    "name": "Miriam Kennet",
+    "twitter": ""
+  },
+  {
+    "party": "Green Party",
+    "region": "south-east",
+    "name": "Beverley Golden",
+    "twitter": ""
+  },
+  {
+    "party": "Green Party",
+    "region": "south-east",
+    "name": "Jonathan Essex",
+    "twitter": ""
+  },
+  {
+    "party": "Green Party",
+    "region": "south-east",
+    "name": "Jonathan Kent",
+    "twitter": "Jolph"
+  },
+  {
+    "party": "Green Party",
+    "region": "south-east",
+    "name": "Stuart Jeffrey",
+    "twitter": "stuartjeffery"
+  },
+  {
+    "party": "Green Party",
+    "region": "south-east",
+    "name": "Ray Cunningham",
+    "twitter": ""
+  },
+  {
+    "party": "Aspire To Better",
+    "region": "northern-ireland",
+    "name": "Tina McKenzie",
+    "twitter": ""
+  }
+]
