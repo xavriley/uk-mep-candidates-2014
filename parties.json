@@ -1,0 +1,241 @@
+[
+    {
+        "id": "Conservative Party",
+        "URI": "http://dbpedia.org/resource/Conservative_Party_(UK)",
+        "no": 71,
+        "percentage": 9.5
+    },
+    {
+        "id": "UKIP",
+        "URI": "http://dbpedia.org/resource/UK_Independence_Party",
+        "no": 71,
+        "percentage": 9.5
+    },
+    {
+        "id": "Liberal Democrats",
+        "URI": "http://dbpedia.org/resource/Liberal_Democrats",
+        "no": 70,
+        "percentage": 9.37
+    },
+    {
+        "id": "Labour Party",
+        "URI": "http://dbpedia.org/resource/Labour_Party_(UK)",
+        "no": 70,
+        "percentage": 9.37
+    },
+    {
+        "id": "British National Party",
+        "URI": "http://dbpedia.org/resource/British_National_Party",
+        "no": 70,
+        "percentage": 9.37
+    },
+    {
+        "id": "Green Party",
+        "URI": "http://dbpedia.org/resource/Green_Party_of_England_and_Wales",
+        "no": 64,
+        "percentage": 8.57
+    },
+    {
+        "id": "English Democrats",
+        "URI": "http://dbpedia.org/resource/English_Democrats_(political_party)",
+        "no": 60,
+        "percentage": 8.03
+    },
+    {
+        "id": "An Independence From Europe",
+        "URI": ,
+        "no": 60,
+        "percentage": 8.03
+    },
+    {
+        "id": "No2EU",
+        "URI": ,
+        "no": 46,
+        "percentage": 6.16
+    },
+    {
+        "id": "Christian Peoples Alliance",
+        "URI": "http://dbpedia.org/resource/Christian_Peoples_Alliance",
+        "no": 24,
+        "percentage": 3.21
+    },
+    {
+        "id": "Socialist Party of Great Britain",
+        "URI": "http://dbpedia.org/resource/Socialist_Party_of_Great_Britain",
+        "no": 14,
+        "percentage": 1.87
+    },
+    {
+        "id": "Britain First",
+        "URI": ,
+        "no": 10,
+        "percentage": 1.34
+    },
+    {
+        "id": "The Peace Party - Non-violence",
+        "URI": ,
+        "no": 10,
+        "percentage": 1.34
+    },
+    {
+        "id": "National Liberal Party – True Liberalism",
+        "URI": ,
+        "no": 8,
+        "percentage": 1.07
+    },
+    {
+        "id": "Communities United Party",
+        "URI": ,
+        "no": 8,
+        "percentage": 1.07
+    },
+    {
+        "id": "Socialist Equality Party (UK)",
+        "URI": "http://dbpedia.org/resource/Socialist_Equality_Party_(UK)",
+        "no": 8,
+        "percentage": 1.07
+    },
+    {
+        "id": "National Health Action Party",
+        "URI": ,
+        "no": 8,
+        "percentage": 1.07
+    },
+    {
+        "id": "4 Freedoms Party",
+        "URI": ,
+        "no": 8,
+        "percentage": 1.07
+    },
+    {
+        "id": "Animal Welfare Party",
+        "URI": ,
+        "no": 8,
+        "percentage": 1.07
+    },
+    {
+        "id": "We Demand a Referendum",
+        "URI": ,
+        "no": 7,
+        "percentage": 0.94
+    },
+    {
+        "id": "Scottish National Party",
+        "no": 6,
+        "percentage": 0.8
+    },
+    {
+        "id": "Scottish Green Party",
+        "URI": "http://dbpedia.org/resource/Scottish_National_Party",
+        "no": 6,
+        "percentage": 0.8
+    },
+    {
+        "id": "Europeans Party",
+        "URI": ,
+        "no": 6,
+        "percentage": 0.8
+    },
+    {
+        "id": "Harmony Party",
+        "URI": ,
+        "no": 5,
+        "percentage": 0.67
+    },
+    {
+        "id": "Socialist Labour",
+        "URI": "http://dbpedia.org/resource/Socialist_Labour_Party_(UK)",
+        "no": 4,
+        "percentage": 0.54
+    },
+    {
+        "id": "Plaid Cymru",
+        "URI": "http://dbpedia.org/resource/Plaid_Cymru",
+        "no": 4,
+        "percentage": 0.8
+    },
+    {
+        "id": "Pirate Party UK",
+        "URI": "http://dbpedia.org/resource/Pirate_Party_UK",
+        "no": 3,
+        "percentage": 0.4
+    },
+    {
+        "id": "Yorkshire First",
+        "URI": ,
+        "no": 3,
+        "percentage": 0.4
+    },
+    {
+        "id": "Liberty GB",
+        "URI": ,
+        "no": 3,
+        "percentage": 0.4
+    },
+    {
+        "id": "YOURvoice Party",
+        "URI": ,
+        "no": 3,
+        "percentage": 0.4
+    },
+    {
+        "id": "Sinn Féin",
+        "URI": "http://dbpedia.org/resource/Sinn_F%C3%A9in",
+        "no": 1,
+        "percentage": 0.13
+    },
+    {
+        "id": "Alliance Party of Northern Ireland",
+        "URI": "http://dbpedia.org/resource/Alliance_Party_of_Northern_Ireland",
+        "no": 1,
+        "percentage": 0.13
+    },
+    {
+        "id": "Green Party of Northern Ireland",
+        "URI": "http://dbpedia.org/resource/Green_Party_in_Northern_Ireland",
+        "no": 1,
+        "percentage": 0.13
+    },
+    {
+        "id": "NI21",
+        "URI": ,
+        "no": 1,
+        "percentage": 0.13
+    },
+    {
+        "id": "Social Democratic and Labour Party",
+        "URI": "http://dbpedia.org/resource/Social_Democratic_and_Labour_Party",
+        "no": 1,
+        "percentage": 0.13
+    },
+    {
+        "id": "Democratic Unionist Party",
+        "URI": "http://dbpedia.org/resource/Democratic_Unionist_Party",
+        "no": 1,
+        "percentage": 0.13
+    },
+    {
+        "id": "Traditional Unionist Voice",
+        "URI": "http://dbpedia.org/resource/Traditional_Unionist_Voice",
+        "no": 1,
+        "percentage": 0.13
+    },
+    {
+        "id": "Ulster Unionist Party",
+        "URI": "http://dbpedia.org/resource/Ulster_Unionist_Party",
+        "no": 1,
+        "percentage": 0.13
+    },
+    {
+        "id": "The Roman Party.AVE",
+        "URI": ,
+        "no": 1,
+        "percentage": 0.13
+    },
+    {
+        "id": "Aspire To Better",
+        "URI": ,
+        "no": 1,
+        "percentage": 0.13
+    }
+]
